@@ -66,10 +66,3 @@ Please cite this in your publications if it help your research:
       year      = {2019},
       month = {September}
     }`
-
-
-Contacts
-------------------
-- [Hamid Vaezi Joze](https://www.microsoft.com/en-us/research/people/hava/)
-- [Oscar Koller](https://www.microsoft.com/en-us/research/people/oskoller/)
-
