@@ -177,7 +177,7 @@ new,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,16665,16738,74.0,2.
 new,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,16738,16833,96.0,3.800000000000068,25.0,12,True,480.0,360.0
 number,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,17064,17156,93.0,3.680000000000064,25.0,12,True,480.0,360.0
 number,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,17156,17263,108.0,4.279999999999973,25.0,12,True,480.0,360.0
-ocean,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,17302,17401,100.0,3.959999999999922,25.0,12,True,480.0,360.0
+ocean,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,17302,17401,100.0,3.9599999999999222,25.0,12,True,480.0,360.0
 ocean,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,17424,17514,91.0,3.599999999999909,25.0,12,True,480.0,360.0
 old,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,17781,17978,198.0,7.8799999999999955,25.0,12,True,480.0,360.0
 orange,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K8c-np9zNT8.mp4,17980,18088,109.0,4.319999999999936,25.0,12,True,480.0,360.0
@@ -301,7 +301,7 @@ butterfly,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,3434,3553,120
 dog,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,3566,3685,120.0,3.969999999999999,29.97,18,True,640.0,360.0
 fish,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,3689,3778,90.0,2.968999999999994,29.97,18,True,640.0,360.0
 horse,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,3940,4029,90.0,2.968999999999994,29.97,18,True,640.0,360.0
-monkey,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,4058,4147,90.0,2.970000000000028,29.97,18,True,640.0,360.0
+monkey,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,4058,4147,90.0,2.9700000000000277,29.97,18,True,640.0,360.0
 whale,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,4394,4495,102.0,3.3700000000000045,29.97,18,True,640.0,360.0
 fox,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,4563,4651,89.0,2.935999999999978,29.97,18,True,640.0,360.0
 deer,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_E3ILIbZqcKY.mp4,4675,4764,90.0,2.969999999999999,29.97,18,True,640.0,360.0
@@ -453,7 +453,7 @@ same,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UgIh0tLKbZ0.mp4,0,69,70.0,2.76,25.
 television,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_T4s3grUN9vw.mp4,60,130,71.0,2.3360000000000003,29.97,144,True,480.0,360.0
 sign,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_yITxChoG9hU.mp4,0,70,71.0,2.333,30.0,62,True,640.0,360.0
 play,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iZZwtHUXBSY.mp4,0,60,61.0,2.002,29.97,0,True,1280.0,720.0
-law,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_J6vo-FDqO30.mp4,319,378,60.0,1.969,29.97,124,True,640.0,360.0
+law,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_J6vo-FDqO30.mp4,319,378,60.0,1.9689999999999996,29.97,124,True,640.0,360.0
 government,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_J6vo-FDqO30.mp4,408,467,60.0,1.968,29.97,124,True,640.0,360.0
 earthquake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_J6vo-FDqO30.mp4,947,1109,163.0,5.405999999999999,29.97,124,True,640.0,360.0
 leave,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_J6vo-FDqO30.mp4,3407,3463,57.0,1.869,29.97,124,True,640.0,360.0
@@ -575,7 +575,7 @@ jam,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,28894,28974,81.0,2.
 bacon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,29316,29494,179.0,5.9389999999999645,29.97,46,True,640.0,360.0
 hoddog,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,29515,29694,180.0,5.972999999999956,29.97,46,True,640.0,360.0
 cereal,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,29702,29820,119.0,3.937000000000012,29.97,46,True,640.0,360.0
-cereal,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,29935,30024,90.0,2.970000000000028,29.97,46,True,640.0,360.0
+cereal,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,29935,30024,90.0,2.9700000000000277,29.97,46,True,640.0,360.0
 cereal,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,30042,30121,80.0,2.636000000000081,29.97,46,True,640.0,360.0
 tea,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,30371,30459,89.0,2.9360000000000355,29.97,46,True,640.0,360.0
 tea,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_shPBfkIYYpU.mp4,30463,30580,118.0,3.903999999999997,29.97,46,True,640.0,360.0
@@ -665,8 +665,8 @@ newspaper,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,10742,10891,1
 refuse,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,16197,16345,149.0,4.937999999999988,29.97,32,True,640.0,360.0
 school,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,16746,16895,150.0,4.97199999999998,29.97,32,True,640.0,360.0
 dentist,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,17571,17720,150.0,4.971000000000004,29.97,32,True,640.0,360.0
-dentist,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,17757,17846,90.0,2.970000000000028,29.97,32,True,640.0,360.0
-wow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,23168,23257,90.0,2.970000000000028,29.97,32,True,640.0,360.0
+dentist,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,17757,17846,90.0,2.9700000000000277,29.97,32,True,640.0,360.0
+wow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,23168,23257,90.0,2.9700000000000277,29.97,32,True,640.0,360.0
 wow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,23263,23322,60.0,1.9680000000000744,29.97,32,True,640.0,360.0
 wow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,23330,23478,149.0,4.939000000000078,29.97,32,True,640.0,360.0
 never,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mC0lNJ6iz-s.mp4,24061,24210,150.0,4.97199999999998,29.97,32,True,640.0,360.0
@@ -708,7 +708,7 @@ boots,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,2226,2301,76.0,3.
 brush teeth,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,2812,2895,84.0,3.319999999999993,25.0,12,True,480.0,360.0
 brush teeth,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,2976,3091,116.0,4.599999999999994,25.0,12,True,480.0,360.0
 nice,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,4264,4335,72.0,2.8400000000000034,25.0,12,True,480.0,360.0
-nice,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,4465,4534,70.0,2.76000000000002,25.0,12,True,480.0,360.0
+nice,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,4465,4534,70.0,2.7600000000000198,25.0,12,True,480.0,360.0
 clothes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,4592,4660,69.0,2.719999999999999,25.0,12,True,480.0,360.0
 clothes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,4757,4849,93.0,3.680000000000007,25.0,12,True,480.0,360.0
 clothes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,4925,5016,92.0,3.6399999999999855,25.0,12,True,480.0,360.0
@@ -716,7 +716,7 @@ clothes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,5164,5239,76.0,
 dress,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,7037,7090,54.0,2.1200000000000045,25.0,12,True,480.0,360.0
 dress,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,7168,7233,66.0,2.599999999999966,25.0,12,True,480.0,360.0
 drink,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,7253,7323,71.0,2.800000000000012,25.0,12,True,480.0,360.0
-drink,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,7411,7479,69.0,2.720000000000028,25.0,12,True,480.0,360.0
+drink,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,7411,7479,69.0,2.7200000000000277,25.0,12,True,480.0,360.0
 early,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,7596,7665,70.0,2.760000000000048,25.0,12,True,480.0,360.0
 early,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,7715,7788,74.0,2.919999999999959,25.0,12,True,480.0,360.0
 every afternoon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,7807,7881,75.0,2.9600000000000364,25.0,12,True,480.0,360.0
@@ -782,7 +782,7 @@ use,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,38237,38308,72.0,2.
 watch,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,39610,39668,59.0,2.3199999999999363,25.0,12,True,480.0,360.0
 watch,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,39765,39845,81.0,3.200000000000045,25.0,12,True,480.0,360.0
 example,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,40780,40840,61.0,2.399999999999864,25.0,12,True,480.0,360.0
-example,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,40970,41029,60.0,2.360000000000128,25.0,12,True,480.0,360.0
+example,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RWYus9H4YrQ.mp4,40970,41029,60.0,2.3600000000001278,25.0,12,True,480.0,360.0
 calendar,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KEJSLvpsz_4.mp4,0,74,75.0,2.467,30.0,135,True,480.0,360.0
 eyes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ihspkEaNaik.mp4,0,95,96.0,5.575,17.04,2,True,640.0,360.0
 intersection,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kMVyOw_s_cg.mp4,0,76,77.0,2.536,29.97,0,True,1280.0,720.0
@@ -883,7 +883,7 @@ do,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,7703,7855,153.0,5.07
 what,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,7907,8041,135.0,4.471000000000004,29.97,72,True,472.0,360.0
 busy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,8291,8425,135.0,4.471000000000004,29.97,72,True,472.0,360.0
 truck,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,8665,8818,154.0,5.104999999999961,29.97,72,True,472.0,360.0
-doctor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,8855,8959,105.0,3.470000000000028,29.97,72,True,472.0,360.0
+doctor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,8855,8959,105.0,3.4700000000000277,29.97,72,True,472.0,360.0
 nice,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,8995,9093,99.0,3.2700000000000387,29.97,72,True,472.0,360.0
 retire,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,9304,9417,114.0,3.771000000000015,29.97,72,True,472.0,360.0
 enjoy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sErq0TJMKEo.mp4,9469,9609,141.0,4.670999999999992,29.97,72,True,472.0,360.0
@@ -953,7 +953,7 @@ grapes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,12674,12730,57.0
 grapes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,12750,12820,71.0,2.7999999999999545,25.0,12,True,480.0,360.0
 hamburger,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,12881,13060,180.0,7.159999999999968,25.0,12,True,480.0,360.0
 hippo,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,13252,13312,61.0,2.3999999999999773,25.0,12,True,480.0,360.0
-hippo,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,13334,13402,69.0,2.720000000000028,25.0,12,True,480.0,360.0
+hippo,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,13334,13402,69.0,2.7200000000000277,25.0,12,True,480.0,360.0
 hoddog,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,13926,13986,61.0,2.400000000000091,25.0,12,True,480.0,360.0
 hoddog,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,13996,14056,61.0,2.3999999999999773,25.0,12,True,480.0,360.0
 freeze cream,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Qd1x1kUwhpQ.mp4,14272,14318,47.0,1.840000000000032,25.0,12,True,480.0,360.0
@@ -1166,12 +1166,12 @@ not know,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,5010,5069,60.0
 lost,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,5157,5216,60.0,1.968999999999994,29.97,46,True,640.0,360.0
 ticket,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,5783,5841,59.0,1.936000000000007,29.97,46,True,640.0,360.0
 boss,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,5900,5929,30.0,0.9679999999999892,29.97,46,True,640.0,360.0
-future,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,7987,8046,60.0,1.9680000000000173,29.97,46,True,640.0,360.0
+future,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,7987,8046,60.0,1.9680000000000175,29.97,46,True,640.0,360.0
 autumn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,8315,8374,60.0,1.967999999999961,29.97,46,True,640.0,360.0
 summer,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,8507,8536,30.0,0.9679999999999608,29.97,46,True,640.0,360.0
 south america,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,8659,8718,60.0,1.968999999999994,29.97,46,True,640.0,360.0
 tell,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,8782,8811,30.0,0.9680000000000176,29.97,46,True,640.0,360.0
-first,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,10706,10765,60.0,1.9680000000000173,29.97,46,True,640.0,360.0
+first,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,10706,10765,60.0,1.9680000000000175,29.97,46,True,640.0,360.0
 understand,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,10777,10836,60.0,1.967999999999961,29.97,46,True,640.0,360.0
 street,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,12610,12639,30.0,0.9669999999999844,29.97,46,True,640.0,360.0
 accident,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,12663,12722,60.0,1.968999999999994,29.97,46,True,640.0,360.0
@@ -1181,7 +1181,7 @@ alarm,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,14167,14226,60.0,
 steal,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,14521,14580,60.0,1.968999999999994,29.97,46,True,640.0,360.0
 pants,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,14590,14769,180.0,5.97199999999998,29.97,46,True,640.0,360.0
 better,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,15031,15090,60.0,1.968999999999994,29.97,46,True,640.0,360.0
-excuse me,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,15154,15212,59.0,1.936000000000036,29.97,46,True,640.0,360.0
+excuse me,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,15154,15212,59.0,1.9360000000000357,29.97,46,True,640.0,360.0
 sometimes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,15788,15847,60.0,1.9689999999999368,29.97,46,True,640.0,360.0
 loan,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,16052,16111,60.0,1.9680000000000744,29.97,46,True,640.0,360.0
 loan,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,16135,16194,60.0,1.969000000000051,29.97,46,True,640.0,360.0
@@ -1193,7 +1193,7 @@ manager,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,17456,17515,60.
 spoon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,17948,17977,30.0,0.9679999999999608,29.97,46,True,640.0,360.0
 knife,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,18004,18033,30.0,0.9680000000000746,29.97,46,True,640.0,360.0
 ketchup,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,18277,18327,51.0,1.6680000000000064,29.97,46,True,640.0,360.0
-socks,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,19188,19246,59.0,1.9349999999999448,29.97,46,True,640.0,360.0
+socks,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,19188,19246,59.0,1.9349999999999452,29.97,46,True,640.0,360.0
 salad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,19344,19373,30.0,0.9669999999999844,29.97,46,True,640.0,360.0
 hamburger,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,19390,19419,30.0,0.9669999999999844,29.97,46,True,640.0,360.0
 france fries,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_a9aoS1DL93k.mp4,19431,19551,121.0,4.004000000000019,29.97,46,True,640.0,360.0
@@ -1733,7 +1733,7 @@ new,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,653,691,39.0,1.5799
 family,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,757,798,42.0,1.7050000000000018,24.042,94,True,640.0,360.0
 mother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,873,894,22.0,0.8740000000000023,24.042,94,True,640.0,360.0
 father,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,900,938,39.0,1.581000000000003,24.042,94,True,640.0,360.0
-parents,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,948,992,45.0,1.8300000000000047,24.042,94,True,640.0,360.0
+parents,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,948,992,45.0,1.8300000000000052,24.042,94,True,640.0,360.0
 wife,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,1021,1075,55.0,2.246000000000002,24.042,94,True,640.0,360.0
 husband,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,1088,1149,62.0,2.536999999999999,24.042,94,True,640.0,360.0
 girl,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,1176,1221,46.0,1.872,24.042,94,True,640.0,360.0
@@ -1759,7 +1759,7 @@ thirsty,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3090,3151,62.0,
 drink,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3164,3228,65.0,2.6619999999999777,24.042,94,True,640.0,360.0
 yes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3230,3283,54.0,2.204999999999984,24.042,94,True,640.0,360.0
 no,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3285,3345,61.0,2.4960000000000093,24.042,94,True,640.0,360.0
-asl,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3405,3461,57.0,2.32899999999998,24.042,94,True,640.0,360.0
+asl,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3405,3461,57.0,2.3289999999999798,24.042,94,True,640.0,360.0
 class,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3463,3497,35.0,1.4140000000000157,24.042,94,True,640.0,360.0
 color,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3543,3589,47.0,1.913000000000011,24.042,94,True,640.0,360.0
 purple,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mfrGIHTnKvI.mp4,3666,3739,74.0,3.037000000000006,24.042,94,True,640.0,360.0
@@ -1849,7 +1849,7 @@ cute,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,22799,22948,150.0,
 when,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,23514,23590,77.0,2.536000000000058,29.97,32,True,640.0,360.0
 right,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,23770,23949,180.0,5.97199999999998,29.97,32,True,640.0,360.0
 partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,24989,25078,90.0,2.969000000000051,29.97,32,True,640.0,360.0
-partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,25081,25170,90.0,2.970000000000028,29.97,32,True,640.0,360.0
+partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,25081,25170,90.0,2.9700000000000277,29.97,32,True,640.0,360.0
 partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,25178,25335,158.0,5.239000000000033,29.97,32,True,640.0,360.0
 separate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,25367,25447,81.0,2.669999999999959,29.97,32,True,640.0,360.0
 birthday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,26183,26242,60.0,1.9689999999999368,29.97,32,True,640.0,360.0
@@ -1878,7 +1878,7 @@ retire,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,6850,6920,71.0,2
 famous,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,7100,7249,150.0,4.972000000000008,29.97,46,True,640.0,360.0
 near,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,7277,7405,129.0,4.271000000000015,29.97,46,True,640.0,360.0
 near,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,7409,7486,78.0,2.5689999999999884,29.97,46,True,640.0,360.0
-freeway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,7502,7614,113.0,3.7369999999999934,29.97,46,True,640.0,360.0
+freeway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,7502,7614,113.0,3.7369999999999943,29.97,46,True,640.0,360.0
 freeway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,7616,7677,62.0,2.0349999999999966,29.97,46,True,640.0,360.0
 freeway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,7681,7711,31.0,1.0010000000000332,29.97,46,True,640.0,360.0
 baseball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,8676,8855,180.0,5.973000000000013,29.97,46,True,640.0,360.0
@@ -1908,7 +1908,7 @@ finish,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,19404,19553,150.
 get up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,19883,19993,111.0,3.671000000000049,29.97,46,True,640.0,360.0
 get up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,19998,20035,38.0,1.2339999999999236,29.97,46,True,640.0,360.0
 get up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,20037,20062,26.0,0.83400000000006,29.97,46,True,640.0,360.0
-time,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,20252,20356,105.0,3.470000000000028,29.97,46,True,640.0,360.0
+time,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,20252,20356,105.0,3.4700000000000277,29.97,46,True,640.0,360.0
 time,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,20390,20416,27.0,0.8680000000000518,29.97,46,True,640.0,360.0
 fix,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,21585,21706,122.0,4.036999999999921,29.97,46,True,640.0,360.0
 fix,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,21708,21794,87.0,2.869000000000028,29.97,46,True,640.0,360.0
@@ -1945,10 +1945,10 @@ shrimp,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,34665,34745,81.0
 sandwich,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35062,35159,98.0,3.2369999999998527,29.97,46,True,640.0,360.0
 sandwich,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35161,35244,84.0,2.769999999999982,29.97,46,True,640.0,360.0
 sandwich,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35252,35323,72.0,2.369000000000142,29.97,46,True,640.0,360.0
-sandwich,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35325,35383,59.0,1.9349999999999448,29.97,46,True,640.0,360.0
+sandwich,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35325,35383,59.0,1.9349999999999452,29.97,46,True,640.0,360.0
 sandwich,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35385,35443,59.0,1.9359999999999216,29.97,46,True,640.0,360.0
 sandwich,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35445,35503,59.0,1.9359999999999216,29.97,46,True,640.0,360.0
-hamburger,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35783,35872,90.0,2.970000000000028,29.97,46,True,640.0,360.0
+hamburger,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35783,35872,90.0,2.9700000000000277,29.97,46,True,640.0,360.0
 chicken,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,35893,36042,150.0,4.971000000000004,29.97,46,True,640.0,360.0
 salad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,36819,36968,150.0,4.97199999999998,29.97,46,True,640.0,360.0
 dessert,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,36991,37119,129.0,4.270999999999958,29.97,46,True,640.0,360.0
@@ -1961,7 +1961,7 @@ interesting,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,40197,40375
 intersection,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,41657,41741,85.0,2.803000000000111,29.97,46,True,640.0,360.0
 intersection,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,41761,41851,91.0,3.0030000000001564,29.97,46,True,640.0,360.0
 shower,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,42546,42725,180.0,5.972999999999956,29.97,46,True,640.0,360.0
-brush teeth,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,42956,43023,68.0,2.235000000000128,29.97,46,True,640.0,360.0
+brush teeth,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,42956,43023,68.0,2.2350000000001278,29.97,46,True,640.0,360.0
 brush teeth,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,43047,43107,61.0,2.0019999999999527,29.97,46,True,640.0,360.0
 name,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,44933,45082,150.0,4.972000000000207,29.97,46,True,640.0,360.0
 can,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_u0XAd3TkGaA.mp4,45109,45228,120.0,3.971000000000004,29.97,46,True,640.0,360.0
@@ -2285,7 +2285,7 @@ warm,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rSgVWUc1J0w.mp4,0,46,47.0,1.84,25.
 canada,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IS_TeppBUCg.mp4,10,60,51.0,1.6679999999999997,29.97,144,True,640.0,360.0
 canada,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IS_TeppBUCg.mp4,90,190,101.0,3.337,29.97,144,True,640.0,360.0
 canada,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IS_TeppBUCg.mp4,201,333,133.0,4.404000000000001,29.97,144,True,640.0,360.0
-canada,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IS_TeppBUCg.mp4,643,714,72.0,2.369000000000004,29.97,144,True,640.0,360.0
+canada,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IS_TeppBUCg.mp4,643,714,72.0,2.3690000000000038,29.97,144,True,640.0,360.0
 hello,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FVjpLa8GqeM.mp4,0,52,53.0,1.735,29.97,0,True,640.0,360.0
 sweden,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UVx4jfNs0nQ.mp4,0,82,83.0,2.736,29.97,0,True,640.0,360.0
 towel,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_MrG_1Qo3PaI.mp4,0,50,51.0,1.668,29.97,36,True,480.0,360.0
@@ -2450,7 +2450,7 @@ tall,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_orl2KrOMEIQ.mp4,0,80,81.0,2.667,30
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FMsqLT9Acso.mp4,0,92,93.0,3.075,29.917,38,True,480.0,270.0
 eleven,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UI5KLVn8JKI.mp4,269,329,61.0,2.001999999999999,29.97,124,True,640.0,360.0
 eleven,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UI5KLVn8JKI.mp4,338,402,65.0,2.135,29.97,124,True,640.0,360.0
-twelve,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UI5KLVn8JKI.mp4,431,545,115.0,3.804,29.97,124,True,640.0,360.0
+twelve,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UI5KLVn8JKI.mp4,431,545,115.0,3.8039999999999994,29.97,124,True,640.0,360.0
 thirteen,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UI5KLVn8JKI.mp4,574,619,46.0,1.501999999999999,29.97,124,True,640.0,360.0
 thirteen,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UI5KLVn8JKI.mp4,624,695,72.0,2.369,29.97,124,True,640.0,360.0
 fourteen,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UI5KLVn8JKI.mp4,720,762,43.0,1.4009999999999998,29.97,124,True,640.0,360.0
@@ -2547,7 +2547,7 @@ cloud,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mUdniwYGs_Q.mp4,260,420,161.0,5.3
 cloud,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mUdniwYGs_Q.mp4,470,690,221.0,7.340999999999999,29.97,144,True,480.0,360.0
 night,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fDTNeFcAYEc.mp4,0,92,93.0,3.07,29.97,62,True,640.0,360.0
 greece,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7-5-0PEvJjE.mp4,30,90,61.0,2.0,29.997,103,True,640.0,360.0
-greece,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7-5-0PEvJjE.mp4,180,250,71.0,2.333,29.997,103,True,640.0,360.0
+greece,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7-5-0PEvJjE.mp4,180,250,71.0,2.3329999999999997,29.997,103,True,640.0,360.0
 week,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n39zYTvc4_A.mp4,40,154,115.0,3.813,29.9,41,True,202.0,360.0
 day,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n39zYTvc4_A.mp4,183,299,117.0,3.88,29.9,41,True,202.0,360.0
 weekend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n39zYTvc4_A.mp4,333,519,187.0,6.221,29.9,41,True,202.0,360.0
@@ -2596,7 +2596,7 @@ greece,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,5933,5978,46.0,1
 greece,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,5961,6031,71.0,2.335000000000008,29.97,124,True,640.0,360.0
 hong kong,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,7058,7158,101.0,3.336999999999989,29.97,124,True,640.0,360.0
 india,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,7665,7787,123.0,4.070000000000022,29.97,124,True,640.0,360.0
-iran,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,7978,8042,65.0,2.135999999999968,29.97,124,True,640.0,360.0
+iran,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,7978,8042,65.0,2.1359999999999677,29.97,124,True,640.0,360.0
 iran,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,8045,8065,21.0,0.6669999999999732,29.97,124,True,640.0,360.0
 iran,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,8073,8142,70.0,2.301999999999964,29.97,124,True,640.0,360.0
 iraq,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tZXeryN2rJE.mp4,8195,8312,118.0,3.903999999999997,29.97,124,True,640.0,360.0
@@ -2727,7 +2727,7 @@ country,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,18564,18718,155
 old,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,19031,19079,49.0,1.6019999999999754,29.97,32,True,480.0,360.0
 old,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,19081,19180,100.0,3.3039999999999736,29.97,32,True,480.0,360.0
 month,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,19182,19300,119.0,3.937999999999988,29.97,32,True,480.0,360.0
-our,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,19334,19423,90.0,2.970000000000028,29.97,32,True,480.0,360.0
+our,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,19334,19423,90.0,2.9700000000000277,29.97,32,True,480.0,360.0
 business,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,19659,19808,150.0,4.97199999999998,29.97,32,True,480.0,360.0
 busy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,19921,19983,63.0,2.06899999999996,29.97,32,True,480.0,360.0
 white,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mCjHYreiZ24.mp4,20023,20172,150.0,4.971000000000004,29.97,32,True,480.0,360.0
@@ -3102,8 +3102,8 @@ stand,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,7307,7414,108.0,3
 run,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,7545,7634,90.0,2.969999999999999,29.97,18,True,640.0,360.0
 run,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,7661,7720,60.0,1.968999999999994,29.97,18,True,640.0,360.0
 sweep,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,7887,7976,90.0,2.9699999999999704,29.97,18,True,640.0,360.0
-cook,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,8411,8500,90.0,2.970000000000028,29.97,18,True,640.0,360.0
-lunch,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,8509,8598,90.0,2.970000000000028,29.97,18,True,640.0,360.0
+cook,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,8411,8500,90.0,2.9700000000000277,29.97,18,True,640.0,360.0
+lunch,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,8509,8598,90.0,2.9700000000000277,29.97,18,True,640.0,360.0
 shower,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,8629,8748,120.0,3.971000000000004,29.97,18,True,640.0,360.0
 wash face,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NOZSXL8Z_Q4.mp4,8877,8996,120.0,3.970999999999947,29.97,18,True,640.0,360.0
 favorite,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eTqvv_dlhp0.mp4,0,147,148.0,4.96,29.637,2,True,640.0,360.0
@@ -3142,7 +3142,7 @@ counselor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,5610,5710,101
 nurse,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,5773,5817,45.0,1.467000000000013,30.0,40,True,568.0,320.0
 nurse,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,5857,5973,117.0,3.8669999999999902,30.0,40,True,568.0,320.0
 school,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,6573,6667,95.0,3.1330000000000098,30.0,40,True,568.0,320.0
-classroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,6697,6774,78.0,2.567000000000008,30.0,40,True,568.0,320.0
+classroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,6697,6774,78.0,2.5670000000000077,30.0,40,True,568.0,320.0
 door,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,6823,6934,112.0,3.700000000000017,30.0,40,True,568.0,320.0
 bathroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,6955,7093,139.0,4.599999999999994,30.0,40,True,568.0,320.0
 cafeteria,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_K4lo0NZDlH8.mp4,7113,7288,176.0,5.832999999999998,30.0,40,True,568.0,320.0
@@ -3489,7 +3489,7 @@ india,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,16109,16179,71.0,
 india,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,16269,16339,71.0,2.7999999999999545,25.0,12,True,480.0,360.0
 island,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,16445,16538,94.0,3.7200000000000273,25.0,12,True,480.0,360.0
 lake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,16862,16928,67.0,2.6399999999999864,25.0,12,True,480.0,360.0
-lake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,17038,17106,69.0,2.720000000000028,25.0,12,True,480.0,360.0
+lake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,17038,17106,69.0,2.7200000000000277,25.0,12,True,480.0,360.0
 long hair,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,17249,17309,61.0,2.3999999999999773,25.0,12,True,480.0,360.0
 look like,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,17559,17639,81.0,3.199999999999932,25.0,12,True,480.0,360.0
 look like,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8hBFgtJOZaE.mp4,17699,17779,81.0,3.199999999999932,25.0,12,True,480.0,360.0
@@ -3615,7 +3615,7 @@ homework,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1244,1342,99.0
 email,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1344,1513,170.0,5.639000000000003,29.97,213,True,1280.0,720.0
 here,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1515,1613,99.0,3.270000000000003,29.97,213,True,1280.0,720.0
 name,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1615,1704,90.0,2.969999999999999,29.97,213,True,1280.0,720.0
-how,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1706,1763,58.0,1.901000000000004,29.97,214,True,1280.0,720.0
+how,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1706,1763,58.0,1.9010000000000036,29.97,214,True,1280.0,720.0
 what,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1765,1828,64.0,2.1019999999999968,29.97,214,True,1280.0,720.0
 what's up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1830,1900,71.0,2.3359999999999985,29.97,214,True,1280.0,720.0
 when,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_p36hZJQpLoQ.mp4,1902,1972,71.0,2.3360000000000056,29.97,214,True,1280.0,720.0
@@ -4398,7 +4398,7 @@ mushroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_mj1QB3wY84w.mp4,7253,7357,105.
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wTNv94AY-yE.mp4,0,74,75.0,2.469,29.97,0,True,1280.0,720.0
 now,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g2j70neQ_lI.mp4,0,75,76.0,2.502,29.97,0,True,1280.0,720.0
 some,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nqEYs4aBk7Y.mp4,0,69,70.0,2.302,29.97,0,True,640.0,360.0
-lion,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xmovw262tks.mp4,162,217,56.0,1.836,29.97,94,True,640.0,360.0
+lion,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xmovw262tks.mp4,162,217,56.0,1.8359999999999996,29.97,94,True,640.0,360.0
 turkey,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xmovw262tks.mp4,281,380,100.0,3.303000000000001,29.97,94,True,640.0,360.0
 fox,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xmovw262tks.mp4,382,411,30.0,0.968,29.97,94,True,640.0,360.0
 squirrel,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xmovw262tks.mp4,568,636,69.0,2.2689999999999984,29.97,94,True,640.0,360.0
@@ -4420,7 +4420,7 @@ many,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,351,378,28.0,0.900
 some,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,426,456,31.0,1.0009999999999994,29.97,124,True,640.0,360.0
 few,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,500,552,53.0,1.7349999999999994,29.97,124,True,640.0,360.0
 few,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,592,754,163.0,5.405000000000001,29.97,124,True,640.0,360.0
-nothing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,810,867,58.0,1.9019999999999968,29.97,124,True,640.0,360.0
+nothing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,810,867,58.0,1.9019999999999972,29.97,124,True,640.0,360.0
 nothing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,905,1028,124.0,4.104000000000003,29.97,124,True,640.0,360.0
 any,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,1176,1211,36.0,1.1679999999999993,29.97,124,True,640.0,360.0
 list,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Hl-T4Kwm_rc.mp4,1427,1455,29.0,0.9350000000000024,29.97,124,True,640.0,360.0
@@ -4533,7 +4533,7 @@ ball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hmcO8HUPvnc.mp4,80,240,161.0,5.338
 ball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hmcO8HUPvnc.mp4,240,330,91.0,3.003,29.97,144,True,480.0,360.0
 truck,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_VsvIHVZsUaw.mp4,0,69,70.0,2.302,29.97,0,True,1280.0,720.0
 do,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_J74nNCrZnM0.mp4,30,85,56.0,1.858,29.6,2,True,640.0,360.0
-do,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_J74nNCrZnM0.mp4,143,213,71.0,2.365,29.6,2,True,640.0,360.0
+do,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_J74nNCrZnM0.mp4,143,213,71.0,2.3649999999999998,29.6,2,True,640.0,360.0
 tuesday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_JKCbn8k968s.mp4,0,68,69.0,2.269,29.97,0,True,640.0,360.0
 freeway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gcuunXUlY3U.mp4,0,81,82.0,2.703,29.97,0,True,1280.0,720.0
 principal,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_e0I6mEfocKg.mp4,0,69,70.0,2.328,29.643,2,True,640.0,360.0
@@ -4738,7 +4738,7 @@ hour,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,7100,7232,133.0,4.
 first,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,7590,7640,51.0,1.6670000000000016,30.0,230,True,320.0,240.0
 come,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,10249,10386,138.0,4.567000000000007,30.0,230,True,320.0,240.0
 home,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,11832,12022,191.0,6.333000000000027,30.0,230,True,320.0,240.0
-when,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,12324,12416,93.0,3.067000000000008,30.0,230,True,320.0,240.0
+when,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,12324,12416,93.0,3.0670000000000077,30.0,230,True,320.0,240.0
 there,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,12603,12704,102.0,3.366999999999962,30.0,230,True,320.0,240.0
 year,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,13352,13562,211.0,7.0,30.0,230,True,320.0,240.0
 bright,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IdzjPPfIl44.mp4,13756,13846,91.0,3.0,30.0,230,True,320.0,240.0
@@ -5323,7 +5323,7 @@ ball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,1873,1897,25.0,0.7
 ball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,1904,1957,54.0,1.7660000000000051,30.0,312,True,640.0,360.0
 book,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,1984,2064,81.0,2.6670000000000016,30.0,312,True,640.0,360.0
 room,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,2094,2174,81.0,2.6670000000000016,30.0,312,True,640.0,360.0
-boy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,2394,2501,108.0,3.567000000000008,30.0,312,True,640.0,360.0
+boy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,2394,2501,108.0,3.5670000000000077,30.0,312,True,640.0,360.0
 but,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,2503,2669,167.0,5.533999999999992,30.0,312,True,640.0,360.0
 right,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,3902,3936,35.0,1.1329999999999814,30.0,312,True,640.0,360.0
 right,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,4334,4384,51.0,1.6659999999999968,30.0,312,True,640.0,360.0
@@ -5348,7 +5348,7 @@ how are you,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,8897,8937,4
 key,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,8978,9067,90.0,2.966000000000008,30.0,312,True,640.0,360.0
 know,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,9309,9410,102.0,3.366999999999962,30.0,312,True,640.0,360.0
 learn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,9412,9547,136.0,4.5,30.0,312,True,640.0,360.0
-light,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,9549,9656,108.0,3.567000000000008,30.0,312,True,640.0,360.0
+light,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,9549,9656,108.0,3.5670000000000077,30.0,312,True,640.0,360.0
 man,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,10159,10261,103.0,3.400000000000034,30.0,312,True,640.0,360.0
 me,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,10293,10354,62.0,2.0329999999999586,30.0,312,True,640.0,360.0
 me,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_rnr_aY0X0dQ.mp4,10319,10344,26.0,0.8330000000000268,30.0,312,True,640.0,360.0
@@ -5494,7 +5494,7 @@ sign,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2DblIQ5n6xk.mp4,5944,6120,177.0,5.
 police,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2DblIQ5n6xk.mp4,6232,6302,71.0,2.3359999999999843,29.97,72,True,472.0,360.0
 careful,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2DblIQ5n6xk.mp4,6576,6756,181.0,6.006,29.97,72,True,472.0,360.0
 follow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2DblIQ5n6xk.mp4,7417,7559,143.0,4.738,29.97,72,True,472.0,360.0
-ready,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2DblIQ5n6xk.mp4,7610,7722,113.0,3.7369999999999934,29.97,72,True,472.0,360.0
+ready,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2DblIQ5n6xk.mp4,7610,7722,113.0,3.7369999999999943,29.97,72,True,472.0,360.0
 play,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iaMttY9HQyE.mp4,0,99,100.0,3.3,30.0,0,True,548.0,360.0
 bird,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wzgoIwWuhis.mp4,93,238,146.0,4.837999999999999,29.97,144,True,480.0,360.0
 break,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Ml0kLpVwYJ8.mp4,0,72,73.0,3.003,23.976,0,True,480.0,360.0
@@ -5506,10 +5506,10 @@ bake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gysfIwSWNps.mp4,131,201,71.0,2.335
 cook,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gysfIwSWNps.mp4,430,566,137.0,4.537999999999999,29.97,124,True,640.0,360.0
 girl,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_U9ZcPY7pPSM.mp4,0,195,196.0,10.065,19.375,2,True,640.0,360.0
 area,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_-YzELllSB9o.mp4,0,71,72.0,2.369,29.97,0,True,1280.0,720.0
-people,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,122,203,82.0,3.24,25.0,94,True,1280.0,720.0
-mother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,223,303,81.0,3.2,25.0,94,True,1280.0,720.0
-boy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,442,522,81.0,3.2,25.0,94,True,1280.0,720.0
-girl,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,555,635,81.0,3.2,25.0,94,True,1280.0,720.0
+people,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,122,203,82.0,3.2399999999999998,25.0,94,True,1280.0,720.0
+mother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,223,303,81.0,3.1999999999999997,25.0,94,True,1280.0,720.0
+boy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,442,522,81.0,3.1999999999999997,25.0,94,True,1280.0,720.0
+girl,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,555,635,81.0,3.1999999999999997,25.0,94,True,1280.0,720.0
 baby,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_wv5nc3pbyK0.mp4,656,736,81.0,3.200000000000003,25.0,94,True,1280.0,720.0
 live,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uF7mdom-vSU.mp4,0,87,88.0,3.48,25.0,13,True,640.0,360.0
 table,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UJINxF1cSUA.mp4,0,81,82.0,2.703,29.97,0,True,640.0,360.0
@@ -5631,7 +5631,7 @@ flirt,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,464,594,131.0,4.3
 date,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,640,676,37.0,1.2010000000000003,29.978,124,True,1280.0,720.0
 date,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,706,786,81.0,2.6690000000000005,29.978,124,True,1280.0,720.0
 argue,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,1514,1604,91.0,3.003,29.978,124,True,1280.0,720.0
-argue,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,1624,1704,81.0,2.668,29.978,124,True,1280.0,720.0
+argue,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,1624,1704,81.0,2.6679999999999997,29.978,124,True,1280.0,720.0
 boyfriend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,2283,2345,63.0,2.067999999999998,29.978,124,True,1280.0,720.0
 boyfriend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,2345,2407,63.0,2.068000000000012,29.978,124,True,1280.0,720.0
 boyfriend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kAnBm2RQb-0.mp4,2407,2487,81.0,2.668999999999997,29.978,124,True,1280.0,720.0
@@ -5775,7 +5775,7 @@ night,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_jyS1n_ctuVM.mp4,220,390,171.0,5.6
 home,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gzw4k5oUd_E.mp4,0,111,112.0,3.704,29.97,62,True,640.0,360.0
 brother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_yXtipPs_t0Q.mp4,0,69,70.0,2.302,29.97,0,True,320.0,240.0
 bathroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_aglMGZgat-s.mp4,100,142,43.0,1.7519999999999998,23.976,253,True,640.0,360.0
-bus,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_aglMGZgat-s.mp4,155,201,47.0,1.918,23.976,253,True,640.0,360.0
+bus,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_aglMGZgat-s.mp4,155,201,47.0,1.9179999999999997,23.976,253,True,640.0,360.0
 cafeteria,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_aglMGZgat-s.mp4,266,289,24.0,0.9600000000000009,23.976,253,True,640.0,360.0
 hallway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_aglMGZgat-s.mp4,425,469,45.0,1.8350000000000009,23.976,253,True,640.0,360.0
 library,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_aglMGZgat-s.mp4,482,528,47.0,1.918999999999997,23.976,253,True,640.0,360.0
@@ -5886,7 +5886,7 @@ book,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,2573,2692,120.0,3.
 which,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,2744,2869,126.0,4.170999999999992,29.97,72,True,626.0,360.0
 why,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,2921,3025,105.0,3.469999999999999,29.97,72,True,626.0,360.0
 take up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,3077,3191,115.0,3.804000000000002,29.97,72,True,626.0,360.0
-one,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,3243,3355,113.0,3.7369999999999934,29.97,72,True,626.0,360.0
+one,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,3243,3355,113.0,3.7369999999999943,29.97,72,True,626.0,360.0
 understand,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,3407,3501,95.0,3.1369999999999862,29.97,72,True,626.0,360.0
 mean,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,3895,4017,123.0,4.070999999999998,29.97,72,True,626.0,360.0
 explain,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hjS0dQDgbjo.mp4,4069,4188,120.0,3.971000000000004,29.97,72,True,626.0,360.0
@@ -5989,7 +5989,7 @@ pepper,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UYVDfe4FgUQ.mp4,0,83,84.0,2.769,
 polite,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_C_jOZel_Q4E.mp4,0,74,75.0,2.585,28.632,0,True,540.0,360.0
 sunday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_SBoi4S4ZPEI.mp4,0,76,77.0,3.17,23.976,0,True,480.0,360.0
 adult,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UXetwN_cI5A.mp4,113,193,81.0,3.2,25.0,12,True,480.0,360.0
-adult,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UXetwN_cI5A.mp4,233,313,81.0,3.2,25.0,12,True,480.0,360.0
+adult,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UXetwN_cI5A.mp4,233,313,81.0,3.1999999999999997,25.0,12,True,480.0,360.0
 annoy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UXetwN_cI5A.mp4,656,736,81.0,3.200000000000003,25.0,12,True,480.0,360.0
 annoy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UXetwN_cI5A.mp4,766,856,91.0,3.6000000000000014,25.0,12,True,480.0,360.0
 argue,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UXetwN_cI5A.mp4,1077,1177,101.0,4.0,25.0,12,True,480.0,360.0
@@ -6597,7 +6597,7 @@ most,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Rhu6Yzzp1CE.mp4,0,95,96.0,3.17,29.
 question,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TzTufyDgpDE.mp4,0,65,66.0,2.168,29.977,0,True,640.0,360.0
 grapes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nr_KHEedXb4.mp4,96,275,180.0,5.973000000000001,29.97,144,True,480.0,360.0
 grapes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nr_KHEedXb4.mp4,275,336,62.0,2.035,29.97,144,True,480.0,360.0
-grapes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nr_KHEedXb4.mp4,336,395,60.0,1.969,29.97,144,True,480.0,360.0
+grapes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nr_KHEedXb4.mp4,336,395,60.0,1.9689999999999996,29.97,144,True,480.0,360.0
 hid,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1qBEdxR74M8.mp4,0,89,90.0,3.56,25.0,0,True,480.0,360.0
 find,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bxDIkyWieew.mp4,0,59,60.0,1.969,29.97,0,True,320.0,240.0
 your,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gvGcEv8qrF4.mp4,0,107,108.0,3.567,30.0,62,True,640.0,360.0
@@ -6854,7 +6854,7 @@ know,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WaAVHWKO2D4.mp4,0,86,87.0,2.87,29.
 headache,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hCePLZW65pQ.mp4,0,84,85.0,2.803,29.97,0,True,640.0,360.0
 ball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1WX8ohyKYQY.mp4,0,58,59.0,1.935,29.97,0,True,1280.0,720.0
 my,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EBdeys96aZI.mp4,10,52,43.0,2.365,17.758,2,True,640.0,360.0
-my,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EBdeys96aZI.mp4,112,153,42.0,2.309,17.758,2,True,640.0,360.0
+my,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EBdeys96aZI.mp4,112,153,42.0,2.3089999999999997,17.758,2,True,640.0,360.0
 last,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UY4x-pl-zks.mp4,0,111,112.0,3.704,29.97,0,True,320.0,218.0
 day,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fHERau_VwB4.mp4,0,109,110.0,4.36,25.0,14,True,640.0,360.0
 center,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_S7YcUlrWYkc.mp4,0,98,99.0,3.27,29.97,0,True,320.0,218.0
@@ -7081,7 +7081,7 @@ manager,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,3156,3241,86.0,
 actor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,3295,3424,130.0,4.304000000000002,29.97,94,True,1280.0,720.0
 cashier,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,3478,3575,98.0,3.2369999999999948,29.97,94,True,1280.0,720.0
 bank,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,3834,3975,142.0,4.704000000000008,29.97,94,True,1280.0,720.0
-store,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,4057,4169,113.0,3.7369999999999934,29.97,94,True,1280.0,720.0
+store,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,4057,4169,113.0,3.7369999999999943,29.97,94,True,1280.0,720.0
 grocery store,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,4382,4456,75.0,2.468999999999994,29.97,94,True,1280.0,720.0
 restaurant,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,4887,4988,102.0,3.3700000000000045,29.97,94,True,1280.0,720.0
 school,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IrdTDCpIunA.mp4,5300,5400,101.0,3.337000000000017,29.97,94,True,1280.0,720.0
@@ -7228,7 +7228,7 @@ dark,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,3990,4109,120.0,3.
 light,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,4161,4277,117.0,3.870000000000005,29.97,72,True,480.0,360.0
 fire,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,4504,4626,123.0,4.071000000000026,29.97,72,True,480.0,360.0
 chat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,4677,4791,115.0,3.804000000000002,29.97,72,True,480.0,360.0
-fun,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,4842,4954,113.0,3.7369999999999934,29.97,72,True,480.0,360.0
+fun,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,4842,4954,113.0,3.7369999999999943,29.97,72,True,480.0,360.0
 run,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,5006,5111,106.0,3.5030000000000143,29.97,72,True,480.0,360.0
 tree,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,5163,5293,131.0,4.338000000000022,29.97,72,True,480.0,360.0
 complain,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZPzyHFaCTrw.mp4,5508,5602,95.0,3.135999999999996,29.97,72,True,480.0,360.0
@@ -7322,7 +7322,7 @@ italy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,3941,4001,61.0,2.
 japan,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,4120,4214,95.0,3.1340000000000146,30.0,103,True,640.0,360.0
 korea,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,4216,4315,100.0,3.300000000000012,30.0,103,True,640.0,360.0
 mexico,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,4317,4401,85.0,2.799999999999983,30.0,103,True,640.0,360.0
-norway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,4566,4658,93.0,3.067000000000008,30.0,103,True,640.0,360.0
+norway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,4566,4658,93.0,3.0670000000000077,30.0,103,True,640.0,360.0
 philippines,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,4758,4859,102.0,3.367000000000018,30.0,103,True,640.0,360.0
 poland,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,4861,4944,84.0,2.7670000000000243,30.0,103,True,640.0,360.0
 puerto rico,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_cBoEmtQv6vQ.mp4,4946,5033,88.0,2.9000000000000057,30.0,103,True,640.0,360.0
@@ -7550,7 +7550,7 @@ finish,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3_lBaA2U6aY.mp4,14581,14605,25.0
 hat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3_lBaA2U6aY.mp4,15161,15302,142.0,4.699999999999989,30.0,312,True,640.0,360.0
 scarf,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3_lBaA2U6aY.mp4,15314,15384,71.0,2.33299999999997,30.0,312,True,640.0,360.0
 jacket,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3_lBaA2U6aY.mp4,15550,15616,67.0,2.200000000000045,30.0,312,True,640.0,360.0
-bye,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3_lBaA2U6aY.mp4,15743,15799,57.0,1.8659999999999848,30.0,312,True,640.0,360.0
+bye,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3_lBaA2U6aY.mp4,15743,15799,57.0,1.8659999999999852,30.0,312,True,640.0,360.0
 bye,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3_lBaA2U6aY.mp4,15797,15849,53.0,1.7329999999999472,30.0,312,True,640.0,360.0
 lunch,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HAKN3e77ud8.mp4,0,65,66.0,2.169,29.97,0,True,640.0,360.0
 awful,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_V2etjLNSlv0.mp4,0,67,68.0,2.68,25.0,13,True,640.0,360.0
@@ -7626,7 +7626,7 @@ friend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pv1yeA4iHmU.mp4,5993,6171,179.0,
 friend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pv1yeA4iHmU.mp4,6193,6206,14.0,0.4339999999999975,29.97,319,True,640.0,360.0
 child,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pv1yeA4iHmU.mp4,6303,6414,112.0,3.704000000000008,29.97,319,True,640.0,360.0
 children,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pv1yeA4iHmU.mp4,6472,6493,22.0,0.7009999999999934,29.97,319,True,640.0,360.0
-children,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pv1yeA4iHmU.mp4,6497,6609,113.0,3.7369999999999934,29.97,319,True,640.0,360.0
+children,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pv1yeA4iHmU.mp4,6497,6609,113.0,3.7369999999999943,29.97,319,True,640.0,360.0
 stairs,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RTia-tiXjL0.mp4,0,81,82.0,2.7,30.0,62,True,640.0,360.0
 window,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_VqFX50Z9Y60.mp4,0,81,82.0,2.703,29.97,0,True,640.0,360.0
 day,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,246,368,123.0,4.071,29.97,72,True,626.0,360.0
@@ -7637,7 +7637,7 @@ surprise,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,1160,1273,114.
 sad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,1844,1990,147.0,4.872000000000007,29.97,72,True,626.0,360.0
 mad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,2041,2164,124.0,4.103999999999999,29.97,72,True,626.0,360.0
 excited,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,2408,2544,137.0,4.538000000000011,29.97,72,True,626.0,360.0
-sleepy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,3130,3242,113.0,3.7369999999999934,29.97,72,True,626.0,360.0
+sleepy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,3130,3242,113.0,3.7369999999999943,29.97,72,True,626.0,360.0
 hungry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,3294,3404,111.0,3.6700000000000017,29.97,72,True,626.0,360.0
 tired,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,3456,3586,131.0,4.338000000000008,29.97,72,True,626.0,360.0
 not like,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CSj7IScvZnE.mp4,3826,3956,131.0,4.337999999999994,29.97,72,True,626.0,360.0
@@ -7875,7 +7875,7 @@ government,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,3030,3148,11
 gym,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,3283,3386,104.0,3.4369999999999976,29.97,124,True,1280.0,720.0
 health,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,3389,3538,150.0,4.971000000000004,29.97,124,True,1280.0,720.0
 history,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,3568,3685,118.0,3.903999999999997,29.97,124,True,1280.0,720.0
-math,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,4631,4735,105.0,3.470000000000028,29.97,124,True,1280.0,720.0
+math,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,4631,4735,105.0,3.4700000000000277,29.97,124,True,1280.0,720.0
 algebra,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,4764,4804,41.0,1.3340000000000032,29.97,124,True,1280.0,720.0
 geometry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,4806,4846,41.0,1.3349999999999795,29.97,124,True,1280.0,720.0
 trigonometry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nJ-c5_4Q6ZQ.mp4,4848,4886,39.0,1.268000000000001,29.97,124,True,1280.0,720.0
@@ -8082,7 +8082,7 @@ son,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,16925,16985,61.0,2.
 husband,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,17218,17367,150.0,4.972000000000094,29.97,32,True,640.0,360.0
 wife,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,17401,17520,120.0,3.97099999999989,29.97,32,True,640.0,360.0
 children,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,17528,17647,120.0,3.971000000000004,29.97,32,True,640.0,360.0
-family,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,17826,17915,90.0,2.970000000000028,29.97,32,True,640.0,360.0
+family,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,17826,17915,90.0,2.9700000000000277,29.97,32,True,640.0,360.0
 boyfriend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,17961,18031,71.0,2.3350000000000364,29.97,32,True,640.0,360.0
 girlfriend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,18325,18385,61.0,2.0020000000000664,29.97,32,True,640.0,360.0
 roommate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KRrKqGEGdMg.mp4,18603,18722,120.0,3.971000000000004,29.97,32,True,640.0,360.0
@@ -8238,7 +8238,7 @@ calendar,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,1402,1424,23.0
 camera,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,1470,1545,76.0,2.503,29.97,124,True,640.0,360.0
 candle,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,1586,1688,103.0,3.4029999999999987,29.97,124,True,640.0,360.0
 clock,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,2095,2135,41.0,1.3349999999999935,29.97,124,True,640.0,360.0
-clock,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,2140,2195,56.0,1.8349999999999933,29.97,124,True,640.0,360.0
+clock,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,2140,2195,56.0,1.8349999999999935,29.97,124,True,640.0,360.0
 closet,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,2237,2294,58.0,1.902000000000001,29.97,124,True,640.0,360.0
 closet,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,2306,2332,27.0,0.8670000000000044,29.97,124,True,640.0,360.0
 couch,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RAtOGNDP0dg.mp4,2679,2772,94.0,3.1030000000000086,29.97,124,True,640.0,360.0
@@ -8371,7 +8371,7 @@ marry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,9346,9460,115.0,3
 mexico,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,9553,9729,177.0,5.867000000000019,30.0,12,True,1280.0,720.0
 nothing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,10149,10244,96.0,3.166999999999973,30.0,12,True,1280.0,720.0
 north,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,10246,10340,95.0,3.1339999999999577,30.0,12,True,1280.0,720.0
-norway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,10476,10553,78.0,2.567000000000008,30.0,12,True,1280.0,720.0
+norway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,10476,10553,78.0,2.5670000000000077,30.0,12,True,1280.0,720.0
 pass,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,10754,10843,90.0,2.966000000000008,30.0,12,True,1280.0,720.0
 philippines,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,10947,11037,91.0,3.0,30.0,12,True,1280.0,720.0
 poland,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Tg0ltpSAQrk.mp4,11039,11111,73.0,2.400000000000034,30.0,12,True,1280.0,720.0
@@ -8431,7 +8431,7 @@ lost,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_oDDEMBNkB9M.mp4,8851,8891,41.0,1.3
 proud,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_oDDEMBNkB9M.mp4,10309,10356,48.0,1.5680000000000405,29.97,345,True,640.0,360.0
 save,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_oDDEMBNkB9M.mp4,12130,12216,87.0,2.869000000000028,29.97,345,True,640.0,360.0
 believe,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_oDDEMBNkB9M.mp4,14808,14876,69.0,2.269000000000005,29.97,345,True,640.0,360.0
-music,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_oDDEMBNkB9M.mp4,14983,15042,60.0,1.9680000000000173,29.97,345,True,640.0,360.0
+music,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_oDDEMBNkB9M.mp4,14983,15042,60.0,1.9680000000000175,29.97,345,True,640.0,360.0
 all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_oDDEMBNkB9M.mp4,16828,16859,32.0,1.0349999999999682,29.97,345,True,640.0,360.0
 please,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EKHye1RrCy0.mp4,0,111,112.0,3.7,30.0,69,True,480.0,360.0
 thank you,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Te0eziWqJPw.mp4,0,116,117.0,3.867,30.0,69,True,480.0,360.0
@@ -8669,7 +8669,7 @@ give,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18535,18595,61.0,2
 give,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18615,18695,81.0,3.199999999999932,25.0,12,True,1280.0,720.0
 go,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18780,18811,32.0,1.240000000000009,25.0,12,True,1280.0,720.0
 go,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18804,18866,63.0,2.480000000000018,25.0,12,True,1280.0,720.0
-go,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18854,18922,69.0,2.720000000000028,25.0,12,True,1280.0,720.0
+go,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18854,18922,69.0,2.7200000000000277,25.0,12,True,1280.0,720.0
 go,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18889,18913,25.0,0.9600000000000364,25.0,12,True,1280.0,720.0
 go,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18928,18954,27.0,1.0399999999999636,25.0,12,True,1280.0,720.0
 good,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Cv5avR9nEhg.mp4,18986,19056,71.0,2.7999999999999545,25.0,12,True,1280.0,720.0
@@ -8889,7 +8889,7 @@ cooking,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,1650,1779,130.0
 sew,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,1965,2095,131.0,5.200000000000003,25.0,172,True,640.0,360.0
 photography,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,2557,2666,110.0,4.359999999999999,25.0,172,True,640.0,360.0
 painting,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,2668,2802,135.0,5.359999999999999,25.0,172,True,640.0,360.0
-shop,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,2824,2870,47.0,1.840000000000004,25.0,172,True,640.0,360.0
+shop,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,2824,2870,47.0,1.8400000000000036,25.0,172,True,640.0,360.0
 shop,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,2924,3033,110.0,4.359999999999999,25.0,172,True,640.0,360.0
 camping,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,3356,3447,92.0,3.6399999999999855,25.0,172,True,640.0,360.0
 camping,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c0tloO5tJUY.mp4,3449,3579,131.0,5.199999999999989,25.0,172,True,640.0,360.0
@@ -9270,7 +9270,7 @@ picture,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,1330,1392,63.0,
 family,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,1829,1871,43.0,1.4010000000000034,29.97,349,True,640.0,360.0
 family,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,1923,1986,64.0,2.102000000000004,29.97,349,True,640.0,360.0
 mother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,2072,2115,44.0,1.4339999999999975,29.97,349,True,640.0,360.0
-father,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,2244,2299,56.0,1.8349999999999933,29.97,349,True,640.0,360.0
+father,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,2244,2299,56.0,1.8349999999999935,29.97,349,True,640.0,360.0
 grandmother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,2436,2498,63.0,2.0689999999999884,29.97,349,True,640.0,360.0
 grandfather,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,2614,2665,52.0,1.7019999999999982,29.97,349,True,640.0,360.0
 brother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iHR2uV-Uxc8.mp4,3163,3228,66.0,2.168999999999997,29.97,349,True,640.0,360.0
@@ -9967,7 +9967,7 @@ restaurant,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,4077,4248,17
 help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,4615,4773,159.0,5.489999999999981,28.78,394,True,1080.0,720.0
 lost,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,4778,4967,190.0,6.567000000000007,28.78,394,True,1080.0,720.0
 lost,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,5010,5177,168.0,5.802999999999997,28.78,394,True,1080.0,720.0
-interpreter,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,5408,5518,111.0,3.8220000000000014,28.78,394,True,1080.0,720.0
+interpreter,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,5408,5518,111.0,3.8220000000000023,28.78,394,True,1080.0,720.0
 interpreter,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,5528,5608,81.0,2.780000000000001,28.78,394,True,1080.0,720.0
 bathroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,5883,6054,172.0,5.9410000000000025,28.78,394,True,1080.0,720.0
 door,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WxY7E9P46DM.mp4,6078,6226,149.0,5.143000000000001,28.78,394,True,1080.0,720.0
@@ -10062,7 +10062,7 @@ phone,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,9832,9927,96.0,3.
 new,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,9929,10050,122.0,4.033000000000016,30.0,107,True,568.0,320.0
 old,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,10146,10314,169.0,5.600000000000023,30.0,107,True,568.0,320.0
 celebrate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,10489,10607,119.0,3.934000000000026,30.0,107,True,568.0,320.0
-autumn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,10876,10968,93.0,3.067000000000008,30.0,107,True,568.0,320.0
+autumn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,10876,10968,93.0,3.0670000000000077,30.0,107,True,568.0,320.0
 how_many,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,11038,11134,97.0,3.1999999999999886,30.0,107,True,568.0,320.0
 month,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,11266,11390,125.0,4.133999999999958,30.0,107,True,568.0,320.0
 spring,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_RffIEzlN5Yo.mp4,11715,11813,99.0,3.266999999999996,30.0,107,True,568.0,320.0
@@ -10210,7 +10210,7 @@ tie,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,17991,18101,111.0,4
 focus,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,18183,18230,48.0,1.969000000000051,23.867,401,True,270.0,360.0
 disgusted,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,18412,18461,50.0,2.0529999999999973,23.867,401,True,270.0,360.0
 disgusted,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,18474,18554,81.0,3.3519999999999754,23.867,401,True,270.0,360.0
-disgusted,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,18664,18714,51.0,2.095000000000028,23.867,401,True,270.0,360.0
+disgusted,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,18664,18714,51.0,2.0950000000000277,23.867,401,True,270.0,360.0
 disgusted,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,18784,18824,41.0,1.6759999999999309,23.867,401,True,270.0,360.0
 disgusted,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,18844,18894,51.0,2.0949999999999136,23.867,401,True,270.0,360.0
 like,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FNt4N8WFuVY.mp4,19122,19235,114.0,4.734000000000037,23.867,401,True,270.0,360.0
@@ -10339,10 +10339,10 @@ turkey,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8LJxDIR6kKg.mp4,2533,2629,97.0,3
 you,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,454,534,81.0,2.6700000000000017,29.97,72,True,626.0,360.0
 they,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,904,1008,105.0,3.471,29.97,72,True,626.0,360.0
 my,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,1209,1305,97.0,3.203999999999993,29.97,72,True,626.0,360.0
-your,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,1357,1469,113.0,3.7369999999999934,29.97,72,True,626.0,360.0
+your,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,1357,1469,113.0,3.7369999999999943,29.97,72,True,626.0,360.0
 his,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,1520,1627,108.0,3.570999999999998,29.97,72,True,626.0,360.0
 their,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,1842,1953,112.0,3.704000000000008,29.97,72,True,626.0,360.0
-who,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,2169,2269,101.0,3.337000000000004,29.97,72,True,626.0,360.0
+who,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,2169,2269,101.0,3.3370000000000037,29.97,72,True,626.0,360.0
 where,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,2321,2431,111.0,3.6700000000000017,29.97,72,True,626.0,360.0
 student,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,2483,2595,113.0,3.738,29.97,72,True,626.0,360.0
 teacher,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_25ymRY7hbjs.mp4,2647,2784,138.0,4.570999999999998,29.97,72,True,626.0,360.0
@@ -10525,7 +10525,7 @@ negative,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,8431,8489,59.0
 pizza,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,8529,8603,75.0,2.4669999999999845,30.0,40,True,568.0,320.0
 soda,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,8797,8863,67.0,2.1999999999999886,30.0,40,True,568.0,320.0
 cracker,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,8885,8944,60.0,1.966000000000008,30.0,40,True,568.0,320.0
-fruit,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,8983,9075,93.0,3.067000000000008,30.0,40,True,568.0,320.0
+fruit,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,8983,9075,93.0,3.0670000000000077,30.0,40,True,568.0,320.0
 apple,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,9120,9240,121.0,4.0,30.0,40,True,568.0,320.0
 popcorn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,9275,9369,95.0,3.133000000000038,30.0,40,True,568.0,320.0
 eat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_R_ES8RZua1g.mp4,9385,9477,93.0,3.0669999999999504,30.0,40,True,568.0,320.0
@@ -10823,7 +10823,7 @@ die,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3RB642y8sgo.mp4,14287,14367,81.0,2.
 live,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3RB642y8sgo.mp4,14397,14517,121.0,4.016999999999996,29.868,230,True,320.0,240.0
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3RB642y8sgo.mp4,14909,14979,71.0,2.344000000000051,29.868,230,True,320.0,240.0
 all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3RB642y8sgo.mp4,16953,17103,151.0,5.022000000000048,29.868,230,True,320.0,240.0
-perfect,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3RB642y8sgo.mp4,18373,18430,58.0,1.908000000000016,29.868,230,True,320.0,240.0
+perfect,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3RB642y8sgo.mp4,18373,18430,58.0,1.9080000000000157,29.868,230,True,320.0,240.0
 perfect,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3RB642y8sgo.mp4,18495,18541,47.0,1.54099999999994,29.868,230,True,320.0,240.0
 sleep,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_3RB642y8sgo.mp4,18638,18818,181.0,6.02699999999993,29.868,230,True,320.0,240.0
 during,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8BKoFdDLmt8.mp4,0,89,90.0,3.56,25.0,0,True,480.0,360.0
@@ -10946,7 +10946,7 @@ tall,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,444,544,101.0,3.33
 tall,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,554,644,91.0,3.003,29.97,46,True,640.0,360.0
 short,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,671,855,185.0,6.140000000000001,29.97,46,True,640.0,360.0
 short,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,859,909,51.0,1.6679999999999993,29.97,46,True,640.0,360.0
-scarf,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,2430,2530,101.0,3.337000000000004,29.97,46,True,640.0,360.0
+scarf,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,2430,2530,101.0,3.3370000000000037,29.97,46,True,640.0,360.0
 scarf,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,2540,2620,81.0,2.6700000000000017,29.97,46,True,640.0,360.0
 beard,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,2664,2764,101.0,3.3359999999999985,29.97,46,True,640.0,360.0
 hat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,3838,3897,60.0,1.968999999999994,29.97,46,True,640.0,360.0
@@ -10977,7 +10977,7 @@ that one,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,15785,15934,15
 ugly,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,16077,16108,32.0,1.0339999999999918,29.97,46,True,640.0,360.0
 have,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,21082,21201,120.0,3.971000000000004,29.97,46,True,640.0,360.0
 finish,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,21214,21333,120.0,3.971000000000004,29.97,46,True,640.0,360.0
-pick up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,23466,23555,90.0,2.970000000000028,29.97,46,True,640.0,360.0
+pick up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,23466,23555,90.0,2.9700000000000277,29.97,46,True,640.0,360.0
 see,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,23645,23734,90.0,2.968999999999937,29.97,46,True,640.0,360.0
 wait,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,24686,24804,119.0,3.936999999999898,29.97,46,True,640.0,360.0
 use,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kdz5f_PJxDk.mp4,27141,27289,149.0,4.937999999999988,29.97,46,True,640.0,360.0
@@ -11092,7 +11092,7 @@ when,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,23524,23594,71.0,2
 when,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,23634,23725,92.0,3.036000000000058,29.97,32,True,640.0,360.0
 right,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,23770,23949,180.0,5.97199999999998,29.97,32,True,640.0,360.0
 partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,24989,25078,90.0,2.969000000000051,29.97,32,True,640.0,360.0
-partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,25081,25170,90.0,2.970000000000028,29.97,32,True,640.0,360.0
+partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,25081,25170,90.0,2.9700000000000277,29.97,32,True,640.0,360.0
 partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,25178,25335,158.0,5.239000000000033,29.97,32,True,640.0,360.0
 birthday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,26183,26242,60.0,1.9689999999999368,29.97,32,True,640.0,360.0
 birthday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_TwkGS9TjUX8.mp4,26271,26330,60.0,1.967999999999961,29.97,32,True,640.0,360.0
@@ -11214,7 +11214,7 @@ chocolate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,12008,12094,8
 dessert,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,12186,12329,144.0,4.771999999999991,29.97,286,True,640.0,360.0
 pie,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,12331,12506,176.0,5.839999999999975,29.97,286,True,640.0,360.0
 candy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,12508,12596,89.0,2.936999999999955,29.97,286,True,640.0,360.0
-popcorn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,12922,13011,90.0,2.970000000000028,29.97,286,True,640.0,360.0
+popcorn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,12922,13011,90.0,2.9700000000000277,29.97,286,True,640.0,360.0
 glass,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,13355,13436,82.0,2.7029999999999745,29.97,286,True,640.0,360.0
 spoon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,13438,13512,75.0,2.469000000000051,29.97,286,True,640.0,360.0
 knife,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_gRIcq644uAQ.mp4,13565,13631,67.0,2.201999999999998,29.97,286,True,640.0,360.0
@@ -11374,7 +11374,7 @@ vomit,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_JPFrb3Fy7Pw.mp4,0,55,56.0,1.833,3
 single,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_QVPcK3bcFo0.mp4,0,81,82.0,2.703,29.97,0,True,1280.0,720.0
 play,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IsbgJ7qSUA4.mp4,0,162,163.0,5.47,29.616,2,True,640.0,360.0
 tiger,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_x1FMO4EfzWg.mp4,0,180,181.0,6.207,29.0,86,True,640.0,360.0
-ready,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,338,397,60.0,1.969,29.97,417,True,202.0,360.0
+ready,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,338,397,60.0,1.9689999999999996,29.97,417,True,202.0,360.0
 absent,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,500,559,60.0,1.9690000000000007,29.97,417,True,202.0,360.0
 afternoon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,602,658,57.0,1.8679999999999983,29.97,417,True,202.0,360.0
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,719,748,30.0,0.9669999999999987,29.97,417,True,202.0,360.0
@@ -11403,7 +11403,7 @@ hearing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,4405,4464,60.0,
 bye,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,4525,4584,60.0,1.968999999999994,29.97,417,True,202.0,360.0
 hi,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,4615,4644,30.0,0.9680000000000176,29.97,417,True,202.0,360.0
 homework,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,4915,5033,119.0,3.936999999999984,29.97,417,True,202.0,360.0
-me,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,5064,5123,60.0,1.9680000000000173,29.97,417,True,202.0,360.0
+me,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,5064,5123,60.0,1.9680000000000175,29.97,417,True,202.0,360.0
 introduce,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,5544,5603,60.0,1.967999999999989,29.97,417,True,202.0,360.0
 know,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,5664,5693,30.0,0.9669999999999844,29.97,417,True,202.0,360.0
 last,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,5844,5933,90.0,2.968999999999994,29.97,417,True,202.0,360.0
@@ -11419,9 +11419,9 @@ my,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,7312,7371,60.0,1.968
 name,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,7432,7491,60.0,1.968999999999994,29.97,417,True,202.0,360.0
 nice,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,7552,7581,30.0,0.9679999999999892,29.97,417,True,202.0,360.0
 no,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,8031,8090,60.0,1.967999999999961,29.97,417,True,202.0,360.0
-nothing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,8301,8360,60.0,1.9680000000000173,29.97,417,True,202.0,360.0
+nothing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,8301,8360,60.0,1.9680000000000175,29.97,417,True,202.0,360.0
 please,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,8451,8540,90.0,2.968999999999994,29.97,417,True,202.0,360.0
-practice,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,8601,8690,90.0,2.970000000000028,29.97,417,True,202.0,360.0
+practice,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,8601,8690,90.0,2.9700000000000277,29.97,417,True,202.0,360.0
 sad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,8751,8805,55.0,1.802000000000021,29.97,417,True,202.0,360.0
 afraid,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,8961,9049,89.0,2.937000000000012,29.97,417,True,202.0,360.0
 school,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,9098,9139,42.0,1.367999999999995,29.97,417,True,202.0,360.0
@@ -11432,7 +11432,7 @@ sleepy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,9741,9800,60.0,1
 slow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,9830,9889,60.0,1.968999999999994,29.97,417,True,202.0,360.0
 so,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,9950,10008,59.0,1.9350000000000025,29.97,417,True,202.0,360.0
 take care,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,10010,10098,89.0,2.935999999999978,29.97,417,True,202.0,360.0
-good,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,10129,10188,60.0,1.9680000000000173,29.97,417,True,202.0,360.0
+good,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,10129,10188,60.0,1.9680000000000175,29.97,417,True,202.0,360.0
 tired,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,10459,10518,60.0,1.967999999999961,29.97,417,True,202.0,360.0
 today,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,10609,10638,30.0,0.9669999999999844,29.97,417,True,202.0,360.0
 now,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nvaS2J5mcEk.mp4,10660,10698,39.0,1.268000000000029,29.97,417,True,202.0,360.0
@@ -11604,7 +11604,7 @@ enjoy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,1915,1986,72.0,2.
 not yet,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,2211,2310,100.0,3.960000000000008,25.0,12,True,1280.0,720.0
 can't,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,2312,2334,23.0,0.8799999999999955,25.0,12,True,1280.0,720.0
 can't,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,2323,2383,61.0,2.3999999999999915,25.0,12,True,1280.0,720.0
-full,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,2526,2573,48.0,1.879999999999996,25.0,12,True,1280.0,720.0
+full,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,2526,2573,48.0,1.8799999999999957,25.0,12,True,1280.0,720.0
 full,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,2573,2623,51.0,2.0,25.0,12,True,1280.0,720.0
 party,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,2703,2755,53.0,2.0799999999999983,25.0,12,True,1280.0,720.0
 party,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xGnOT9Gp0F0.mp4,2758,2810,53.0,2.0800000000000125,25.0,12,True,1280.0,720.0
@@ -11899,11 +11899,11 @@ single,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nfCgt2qob5g.mp4,0,43,44.0,2.867,
 cracker,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_SDPP_fuyuzc.mp4,0,46,47.0,3.067,15.0,3,True,480.0,360.0
 onion,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_NYiSaUJe4eU.mp4,0,50,51.0,3.333,15.0,3,True,480.0,360.0
 house,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,2608,2715,108.0,3.570999999999998,29.97,125,True,640.0,352.0
-dorm,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,2747,2847,101.0,3.337000000000004,29.97,125,True,640.0,352.0
+dorm,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,2747,2847,101.0,3.3370000000000037,29.97,125,True,640.0,352.0
 motorcycle,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,2877,2980,104.0,3.437000000000012,29.97,125,True,640.0,352.0
 walk,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,3004,3112,109.0,3.603999999999999,29.97,125,True,640.0,352.0
 bicycle,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,3137,3223,87.0,2.8699999999999903,29.97,125,True,640.0,352.0
-bus,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,3237,3337,101.0,3.337000000000004,29.97,125,True,640.0,352.0
+bus,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,3237,3337,101.0,3.3370000000000037,29.97,125,True,640.0,352.0
 train,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,3350,3439,90.0,2.969999999999999,29.97,125,True,640.0,352.0
 airplane,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,3461,3564,104.0,3.4369999999999976,29.97,125,True,640.0,352.0
 skateboard,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_koMZVbqiXf4.mp4,3583,3686,104.0,3.4369999999999976,29.97,125,True,640.0,352.0
@@ -12108,7 +12108,7 @@ student,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,734,814,81.0,3.
 work,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,1077,1153,77.0,3.166000000000004,24.003,125,True,1280.0,720.0
 school,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,1169,1243,75.0,3.0829999999999984,24.003,125,True,1280.0,720.0
 jail,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,1256,1340,85.0,3.5,24.003,125,True,1280.0,720.0
-government,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,1479,1553,75.0,3.082999999999992,24.003,125,True,1280.0,720.0
+government,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,1479,1553,75.0,3.0829999999999917,24.003,125,True,1280.0,720.0
 hospital,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,1934,2020,87.0,3.5829999999999984,24.003,125,True,1280.0,720.0
 emergency,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,2189,2282,94.0,3.875,24.003,125,True,1280.0,720.0
 secretary,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EFTKM2dMkBE.mp4,2332,2421,90.0,3.7079999999999984,24.003,125,True,1280.0,720.0
@@ -12149,7 +12149,7 @@ partner,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Pzft1d7xdF0.mp4,0,50,51.0,3.333
 family,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7sZLZpm4n2E.mp4,238,297,60.0,1.9690000000000003,29.97,140,True,1280.0,720.0
 grandmother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7sZLZpm4n2E.mp4,317,384,68.0,2.2360000000000007,29.97,140,True,1280.0,720.0
 grandfather,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7sZLZpm4n2E.mp4,392,467,76.0,2.5020000000000007,29.97,140,True,1280.0,720.0
-daughter,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7sZLZpm4n2E.mp4,490,555,66.0,2.168,29.97,140,True,1280.0,720.0
+daughter,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7sZLZpm4n2E.mp4,490,555,66.0,2.1679999999999997,29.97,140,True,1280.0,720.0
 son,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7sZLZpm4n2E.mp4,567,627,61.0,2.001999999999999,29.97,140,True,1280.0,720.0
 wife,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7sZLZpm4n2E.mp4,651,705,55.0,1.802,29.97,140,True,1280.0,720.0
 husband,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7sZLZpm4n2E.mp4,717,779,63.0,2.068999999999999,29.97,140,True,1280.0,720.0
@@ -12192,7 +12192,7 @@ hear,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,3736,3813,78.0,2.5
 hike,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,3865,3930,66.0,2.1670000000000016,30.0,157,True,1280.0,720.0
 hockey,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,3945,4009,65.0,2.1330000000000098,30.0,157,True,1280.0,720.0
 ice-skating,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,4044,4133,90.0,2.9669999999999845,30.0,157,True,1280.0,720.0
-jump,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,4590,4652,63.0,2.067000000000008,30.0,157,True,1280.0,720.0
+jump,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,4590,4652,63.0,2.0670000000000077,30.0,157,True,1280.0,720.0
 last month,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,5164,5299,136.0,4.5,30.0,157,True,1280.0,720.0
 last week,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,5421,5470,50.0,1.6330000000000098,30.0,157,True,1280.0,720.0
 last year,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ws12ZoG4qAU.mp4,5529,5577,49.0,1.5999999999999943,30.0,157,True,1280.0,720.0
@@ -12242,7 +12242,7 @@ beautiful,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,2875,3045,171
 smart,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,3450,3533,84.0,2.766999999999996,30.0,163,True,1280.0,720.0
 strong,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,3587,3690,104.0,3.433000000000007,30.0,163,True,1280.0,720.0
 stupid,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,3720,3811,92.0,3.0330000000000013,30.0,163,True,1280.0,720.0
-surprise,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,3838,3926,89.0,2.933999999999984,30.0,163,True,1280.0,720.0
+surprise,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,3838,3926,89.0,2.9339999999999837,30.0,163,True,1280.0,720.0
 tall,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,3967,4081,115.0,3.799999999999983,30.0,163,True,1280.0,720.0
 tall,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,4099,4197,99.0,3.266999999999996,30.0,163,True,1280.0,720.0
 they,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_kZuJalsv_z0.mp4,4254,4352,99.0,3.266999999999996,30.0,163,True,1280.0,720.0
@@ -12314,7 +12314,7 @@ moon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_N3okLbGJpRc.mp4,1476,1543,68.0,2.2
 cloud,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_N3okLbGJpRc.mp4,1568,1640,73.0,2.3999999999999986,30.0,140,True,1280.0,720.0
 building,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_N3okLbGJpRc.mp4,1909,1992,84.0,2.767000000000003,30.0,140,True,1280.0,720.0
 enjoy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_YWH2zXv2aXw.mp4,0,48,49.0,3.2,15.0,3,True,480.0,360.0
-church,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_03-U0mmClOU.mp4,2499,2603,105.0,3.587000000000004,29.0,407,True,640.0,360.0
+church,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_03-U0mmClOU.mp4,2499,2603,105.0,3.5870000000000037,29.0,407,True,640.0,360.0
 easter,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_03-U0mmClOU.mp4,3311,3414,104.0,3.5520000000000067,29.0,407,True,640.0,360.0
 important,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CQfPD4Dxsns.mp4,0,46,47.0,3.067,15.0,3,True,480.0,360.0
 sophomore,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Aky3yxiBLSU.mp4,0,32,33.0,2.133,15.0,3,True,480.0,360.0
@@ -12434,7 +12434,7 @@ vomit,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EavGI-8B3ao.mp4,2770,2815,46.0,1.
 dizzy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EavGI-8B3ao.mp4,2899,2956,58.0,1.9000000000000057,30.0,163,True,1280.0,720.0
 cough,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EavGI-8B3ao.mp4,3753,3827,75.0,2.4669999999999987,30.0,163,True,1280.0,720.0
 pregnant,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EavGI-8B3ao.mp4,4645,4715,71.0,2.334000000000003,30.0,163,True,1280.0,720.0
-head,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EavGI-8B3ao.mp4,6067,6129,63.0,2.067000000000008,30.0,163,True,1280.0,720.0
+head,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_EavGI-8B3ao.mp4,6067,6129,63.0,2.0670000000000077,30.0,163,True,1280.0,720.0
 hard,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_osNkRDKx7rU.mp4,0,47,48.0,3.133,15.0,3,True,480.0,360.0
 jam,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_la_6Jm3NS68.mp4,0,48,49.0,3.2,15.0,3,True,480.0,360.0
 salt,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_OPk9Q6Kmjzs.mp4,0,52,53.0,3.467,15.0,3,True,480.0,360.0
@@ -12493,7 +12493,7 @@ popcorn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,385,458,74.0,2.
 cracker,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,629,691,63.0,2.0680000000000014,29.97,140,True,1280.0,720.0
 nuts,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,960,1019,60.0,1.9690000000000007,29.97,140,True,1280.0,720.0
 candy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,1049,1090,42.0,1.367999999999995,29.97,140,True,1280.0,720.0
-chocolate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,1117,1182,66.0,2.168,29.97,140,True,1280.0,720.0
+chocolate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,1117,1182,66.0,2.1679999999999997,29.97,140,True,1280.0,720.0
 cookie,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,1207,1258,52.0,1.7010000000000003,29.97,140,True,1280.0,720.0
 freeze cream,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,1281,1347,67.0,2.201999999999998,29.97,140,True,1280.0,720.0
 cake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tlM39B2Zlmo.mp4,1378,1436,59.0,1.936,29.97,140,True,1280.0,720.0
@@ -12636,7 +12636,7 @@ language,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,4164,4305,142.
 love,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,4582,4677,96.0,3.1670000000000016,30.0,163,True,1280.0,720.0
 meet,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,4689,4831,143.0,4.732999999999976,30.0,163,True,1280.0,720.0
 movie,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,4875,5003,129.0,4.266999999999996,30.0,163,True,1280.0,720.0
-no,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,5071,5163,93.0,3.067000000000008,30.0,163,True,1280.0,720.0
+no,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,5071,5163,93.0,3.0670000000000077,30.0,163,True,1280.0,720.0
 not,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,5175,5264,90.0,2.967000000000013,30.0,163,True,1280.0,720.0
 school,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,5602,5692,91.0,3.0,30.0,163,True,1280.0,720.0
 see,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,5739,5827,89.0,2.9329999999999927,30.0,163,True,1280.0,720.0
@@ -12645,7 +12645,7 @@ sorry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,6382,6435,54.0,1.
 understand,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,6578,6688,111.0,3.665999999999997,30.0,163,True,1280.0,720.0
 work,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,7335,7467,133.0,4.400000000000006,30.0,163,True,1280.0,720.0
 world,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,7490,7649,160.0,5.300000000000011,30.0,163,True,1280.0,720.0
-wrong,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,7692,7799,108.0,3.567000000000008,30.0,163,True,1280.0,720.0
+wrong,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,7692,7799,108.0,3.5670000000000077,30.0,163,True,1280.0,720.0
 yes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g59_3vr_NT0.mp4,7840,7961,122.0,4.033999999999992,30.0,163,True,1280.0,720.0
 eat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eeHS78JyN70.mp4,3028,3108,81.0,2.6699999999999875,29.97,80,True,640.0,360.0
 eat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eeHS78JyN70.mp4,3118,3208,91.0,3.003,29.97,80,True,640.0,360.0
@@ -12764,7 +12764,7 @@ boyfriend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,11343,11413,7
 roommate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,11918,11988,71.0,2.3360000000000127,29.97,80,True,640.0,360.0
 roommate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,12018,12088,71.0,2.3350000000000364,29.97,80,True,640.0,360.0
 now,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,12559,12692,134.0,4.437999999999988,29.97,80,True,640.0,360.0
-today,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,13122,13196,75.0,2.470000000000028,29.97,80,True,640.0,360.0
+today,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,13122,13196,75.0,2.4700000000000277,29.97,80,True,640.0,360.0
 today,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,13236,13326,91.0,3.002999999999986,29.97,80,True,640.0,360.0
 yesterday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,13855,14052,198.0,6.572999999999979,29.97,80,True,640.0,360.0
 past,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_dtSmDTn3zkk.mp4,14173,14358,186.0,6.173000000000002,29.97,80,True,640.0,360.0
@@ -12808,7 +12808,7 @@ who,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,3990,4120,131.0,4.3
 who,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,4140,4272,133.0,4.403999999999996,29.97,80,True,640.0,360.0
 where,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,4710,4832,123.0,4.070999999999998,29.97,80,True,640.0,360.0
 learn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,4945,5055,111.0,3.670000000000016,29.97,80,True,640.0,360.0
-learn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,5064,5176,113.0,3.7369999999999934,29.97,80,True,640.0,360.0
+learn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,5064,5176,113.0,3.7369999999999943,29.97,80,True,640.0,360.0
 student,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,5297,5419,123.0,4.070999999999998,29.97,80,True,640.0,360.0
 student,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,5429,5549,121.0,4.003999999999991,29.97,80,True,640.0,360.0
 teach,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_BEKUHzwnVO8.mp4,5723,5783,61.0,2.002000000000009,29.97,80,True,640.0,360.0
@@ -12858,7 +12858,7 @@ drive,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,2271,2374,104.0,3
 challenge,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,2473,2556,84.0,2.766999999999996,30.0,163,True,1280.0,720.0
 friday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,3346,3463,118.0,3.9000000000000057,30.0,163,True,1280.0,720.0
 funny,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,4056,4108,53.0,1.733000000000004,30.0,163,True,1280.0,720.0
-hate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,4170,4277,108.0,3.567000000000008,30.0,163,True,1280.0,720.0
+hate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,4170,4277,108.0,3.5670000000000077,30.0,163,True,1280.0,720.0
 inform,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,4365,4429,65.0,2.1330000000000098,30.0,163,True,1280.0,720.0
 meat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,4526,4569,44.0,1.4330000000000211,30.0,163,True,1280.0,720.0
 give,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_n0PdKty8WRA.mp4,4679,4754,76.0,2.5,30.0,163,True,1280.0,720.0
@@ -12893,12 +12893,12 @@ mirror,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_5Q6Ccubc0J0.mp4,932,1004,73.0,2.
 cake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9zAUOY5kRKs.mp4,0,56,57.0,3.733,15.0,3,True,480.0,360.0
 book,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_aGtIHKEdCds.mp4,0,112,113.0,3.733,30.0,87,True,640.0,360.0
 after,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,2529,2689,161.0,5.338999999999999,29.97,251,True,640.0,360.0
-after,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,2689,2789,101.0,3.337000000000004,29.97,251,True,640.0,360.0
+after,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,2689,2789,101.0,3.3370000000000037,29.97,251,True,640.0,360.0
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,2860,2900,41.0,1.3340000000000032,29.97,251,True,640.0,360.0
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,2900,2950,51.0,1.668999999999997,29.97,251,True,640.0,360.0
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,2960,3080,121.0,4.004000000000005,29.97,251,True,640.0,360.0
 all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,3092,3192,101.0,3.3359999999999985,29.97,251,True,640.0,360.0
-all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,3192,3302,111.0,3.671000000000008,29.97,251,True,640.0,360.0
+all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,3192,3302,111.0,3.6710000000000074,29.97,251,True,640.0,360.0
 all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,3302,3352,51.0,1.6679999999999922,29.97,251,True,640.0,360.0
 also,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,3833,3936,104.0,3.4369999999999834,29.97,251,True,640.0,360.0
 also,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,3959,4029,71.0,2.335000000000008,29.97,251,True,640.0,360.0
@@ -12934,7 +12934,7 @@ finish,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,10122,10193,72.0
 first,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,10373,10403,31.0,1.0009999999999764,29.97,251,True,640.0,360.0
 first,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,10433,10613,181.0,6.006000000000029,29.97,251,True,640.0,360.0
 friend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,10661,10711,51.0,1.6680000000000064,29.97,251,True,640.0,360.0
-friend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,10711,10769,59.0,1.936000000000036,29.97,251,True,640.0,360.0
+friend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,10711,10769,59.0,1.9360000000000357,29.97,251,True,640.0,360.0
 friend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,10769,10823,55.0,1.8009999999999875,29.97,251,True,640.0,360.0
 from,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,10935,10995,61.0,2.002000000000009,29.97,251,True,640.0,360.0
 from,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,11315,11420,106.0,3.5030000000000427,29.97,251,True,640.0,360.0
@@ -13052,7 +13052,7 @@ think,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,34193,34275,83.0,
 time,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,34583,34703,121.0,4.003999999999905,29.97,251,True,640.0,360.0
 we,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,35444,35484,41.0,1.3350000000000364,29.97,251,True,640.0,360.0
 we,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,35522,35557,36.0,1.16800000000012,29.97,251,True,640.0,360.0
-use,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,35766,35845,80.0,2.635999999999968,29.97,251,True,640.0,360.0
+use,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,35766,35845,80.0,2.6359999999999677,29.97,251,True,640.0,360.0
 use,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,35845,35995,151.0,5.004999999999882,29.97,251,True,640.0,360.0
 week,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,36889,36969,81.0,2.668999999999869,29.97,251,True,640.0,360.0
 week,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,36989,37079,91.0,3.002999999999929,29.97,251,True,640.0,360.0
@@ -13060,7 +13060,7 @@ what,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,37241,37440,200.0,
 when,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,37451,37599,149.0,4.938000000000102,29.97,251,True,640.0,360.0
 where,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,37613,37786,174.0,5.772999999999911,29.97,251,True,640.0,360.0
 which,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,37801,37983,183.0,6.073000000000093,29.97,251,True,640.0,360.0
-who,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,37984,38058,75.0,2.470000000000028,29.97,251,True,640.0,360.0
+who,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,37984,38058,75.0,2.4700000000000277,29.97,251,True,640.0,360.0
 who,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,38108,38278,171.0,5.6720000000000255,29.97,251,True,640.0,360.0
 why,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,38475,38565,91.0,3.0030000000001564,29.97,251,True,640.0,360.0
 why,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,38565,38715,151.0,5.004999999999882,29.97,251,True,640.0,360.0
@@ -13073,7 +13073,7 @@ yes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,39864,39944,81.0,2.
 yes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,39944,40054,111.0,3.6700000000000728,29.97,251,True,640.0,360.0
 you,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,40100,40264,165.0,5.47199999999998,29.97,251,True,640.0,360.0
 you,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,40264,40318,55.0,1.8020000000001344,29.97,251,True,640.0,360.0
-you,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,40318,40382,65.0,2.135999999999968,29.97,251,True,640.0,360.0
+you,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,40318,40382,65.0,2.1359999999999677,29.97,251,True,640.0,360.0
 your,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,40397,40546,150.0,4.97199999999998,29.97,251,True,640.0,360.0
 your,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HUMEcnkvhJU.mp4,40566,40666,101.0,3.336999999999989,29.97,251,True,640.0,360.0
 vegetable,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_tTzpnbKfL9I.mp4,0,49,50.0,3.267,15.0,3,True,480.0,360.0
@@ -13114,11 +13114,11 @@ bad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,6897,6926,30.0,0.96
 mad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,7113,7141,29.0,0.9339999999999976,29.97,261,True,640.0,360.0
 cry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,7258,7287,30.0,0.9679999999999892,29.97,261,True,640.0,360.0
 help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,7640,7679,40.0,1.302000000000021,29.97,261,True,640.0,360.0
-house,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,8629,8718,90.0,2.970000000000028,29.97,261,True,640.0,360.0
+house,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,8629,8718,90.0,2.9700000000000277,29.97,261,True,640.0,360.0
 water,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,9065,9153,89.0,2.935999999999978,29.97,261,True,640.0,360.0
 draw,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,9264,9351,88.0,2.90300000000002,29.97,261,True,640.0,360.0
 library,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,9947,10035,89.0,2.935999999999978,29.97,261,True,640.0,360.0
-write,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,10211,10300,90.0,2.970000000000028,29.97,261,True,640.0,360.0
+write,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,10211,10300,90.0,2.9700000000000277,29.97,261,True,640.0,360.0
 music,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,10383,10469,87.0,2.869999999999948,29.97,261,True,640.0,360.0
 play,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,11291,11379,89.0,2.935999999999978,29.97,261,True,640.0,360.0
 swing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_bX1eJjB3nyA.mp4,11747,11834,88.0,2.902999999999963,29.97,261,True,640.0,360.0
@@ -13459,7 +13459,7 @@ also,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_YWba5aC9rHQ.mp4,0,50,51.0,3.333,15
 able,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6oYVso-7bI0.mp4,0,46,47.0,3.067,15.0,3,True,480.0,360.0
 classroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UjiCWH8PSvM.mp4,50,146,97.0,3.204,29.97,140,True,1280.0,720.0
 table,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UjiCWH8PSvM.mp4,185,250,66.0,2.1690000000000005,29.97,140,True,1280.0,720.0
-sit,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UjiCWH8PSvM.mp4,281,335,55.0,1.8020000000000007,29.97,140,True,1280.0,720.0
+sit,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UjiCWH8PSvM.mp4,281,335,55.0,1.8020000000000012,29.97,140,True,1280.0,720.0
 door,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UjiCWH8PSvM.mp4,832,904,73.0,2.402000000000001,29.97,140,True,1280.0,720.0
 window,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UjiCWH8PSvM.mp4,942,1015,74.0,2.4359999999999964,29.97,140,True,1280.0,720.0
 refrigerator,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UjiCWH8PSvM.mp4,1037,1167,131.0,4.338000000000001,29.97,140,True,1280.0,720.0
@@ -13877,7 +13877,7 @@ weekend,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,11770,11834,65.
 stay,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,12330,12390,61.0,2.002000000000009,29.97,80,True,640.0,360.0
 stay,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,12420,12460,41.0,1.3350000000000364,29.97,80,True,640.0,360.0
 push,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,13280,13326,47.0,1.535000000000025,29.97,80,True,640.0,360.0
-push,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,13366,13425,60.0,1.9680000000000173,29.97,80,True,640.0,360.0
+push,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,13366,13425,60.0,1.9680000000000175,29.97,80,True,640.0,360.0
 party,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,14225,14325,101.0,3.336999999999989,29.97,80,True,640.0,360.0
 party,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,14345,14435,91.0,3.0030000000000427,29.97,80,True,640.0,360.0
 change,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_IlIE1OP3gP0.mp4,14639,14719,81.0,2.66900000000004,29.97,80,True,640.0,360.0
@@ -14040,14 +14040,14 @@ silver,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_XhhTfZ4sOQY.mp4,0,50,51.0,3.333,
 coffee,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uVLwe5c7LaQ.mp4,0,46,47.0,3.067,15.0,3,True,480.0,360.0
 accept,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,342,393,52.0,1.6999999999999993,30.0,163,True,1280.0,720.0
 bake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,689,771,83.0,2.7330000000000005,30.0,163,True,1280.0,720.0
-born,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,951,1047,97.0,3.2,30.0,163,True,1280.0,720.0
+born,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,951,1047,97.0,3.1999999999999997,30.0,163,True,1280.0,720.0
 can,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,1112,1172,61.0,2.0,30.0,163,True,1280.0,720.0
 can,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,1212,1260,49.0,1.6000000000000014,30.0,163,True,1280.0,720.0
 can't,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,1405,1473,69.0,2.267000000000003,30.0,163,True,1280.0,720.0
 cry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,2131,2163,33.0,1.066999999999993,30.0,163,True,1280.0,720.0
 divorce,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,2222,2285,64.0,2.1000000000000085,30.0,163,True,1280.0,720.0
 fail,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,2907,2993,87.0,2.8669999999999902,30.0,163,True,1280.0,720.0
-fast,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,3190,3267,78.0,2.567000000000008,30.0,163,True,1280.0,720.0
+fast,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,3190,3267,78.0,2.5670000000000077,30.0,163,True,1280.0,720.0
 get up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,4002,4055,54.0,1.766999999999996,30.0,163,True,1280.0,720.0
 laugh,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,4149,4256,108.0,3.566999999999979,30.0,163,True,1280.0,720.0
 speech,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uwIh6Tv6dzA.mp4,4359,4449,91.0,3.0,30.0,163,True,1280.0,720.0
@@ -14084,7 +14084,7 @@ finish,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,1704,1817,114.0,
 ready,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,1881,1988,108.0,3.690000000000012,29.0,407,True,640.0,360.0
 restaurant,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,2195,2302,108.0,3.689000000000007,29.0,407,True,640.0,360.0
 movie,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,2352,2460,109.0,3.725000000000009,29.0,407,True,640.0,360.0
-chocolate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,2513,2625,113.0,3.8619999999999934,29.0,407,True,640.0,360.0
+chocolate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,2513,2625,113.0,3.8619999999999943,29.0,407,True,640.0,360.0
 eat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,2898,3007,110.0,3.759,29.0,407,True,640.0,360.0
 help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,3085,3195,111.0,3.792999999999992,29.0,407,True,640.0,360.0
 wow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GmxS5HkNc3o.mp4,3264,3346,83.0,2.826999999999998,29.0,407,True,640.0,360.0
@@ -14311,7 +14311,7 @@ explain,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,10946,11026,81.
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,11210,11260,51.0,1.6689999999999827,29.97,80,True,640.0,360.0
 again,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,11320,11382,63.0,2.067999999999984,29.97,80,True,640.0,360.0
 more,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,12224,12292,69.0,2.2689999999999486,29.97,80,True,640.0,360.0
-more,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,12362,12421,60.0,1.9680000000000173,29.97,80,True,640.0,360.0
+more,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,12362,12421,60.0,1.9680000000000175,29.97,80,True,640.0,360.0
 there,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,12603,12663,61.0,2.002000000000009,29.97,80,True,640.0,360.0
 there,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,12683,12753,71.0,2.335999999999956,29.97,80,True,640.0,360.0
 there,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9bosgmeAAuo.mp4,12888,13087,200.0,6.640000000000043,29.97,80,True,640.0,360.0
@@ -14474,8 +14474,8 @@ year,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1284,1321,38.0,1.2
 monday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1520,1570,51.0,1.672000000000004,29.893,34,True,1280.0,720.0
 tuesday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1586,1647,62.0,2.041000000000004,29.893,34,True,1280.0,720.0
 wednesday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1681,1727,47.0,1.5390000000000017,29.893,34,True,1280.0,720.0
-thursday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1769,1865,97.0,3.212000000000004,29.893,34,True,1280.0,720.0
-friday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1911,1965,55.0,1.8059999999999967,29.893,34,True,1280.0,720.0
+thursday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1769,1865,97.0,3.2120000000000037,29.893,34,True,1280.0,720.0
+friday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1911,1965,55.0,1.8059999999999972,29.893,34,True,1280.0,720.0
 saturday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,1996,2052,57.0,1.8729999999999905,29.893,34,True,1280.0,720.0
 sunday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iDFtTpXAMJE.mp4,2071,2113,43.0,1.4050000000000011,29.893,34,True,1280.0,720.0
 spring,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_WJCEpGRkGoM.mp4,20,100,81.0,2.6660000000000004,30.0,132,True,480.0,360.0
@@ -14496,7 +14496,7 @@ glasses,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_-DMFu-nAsok.mp4,2009,2068,60.0,
 hearing help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_-DMFu-nAsok.mp4,2079,2138,60.0,1.973999999999989,29.892,34,True,1280.0,720.0
 backpack,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_-DMFu-nAsok.mp4,2173,2234,62.0,2.040999999999997,29.892,34,True,1280.0,720.0
 scarf,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_-DMFu-nAsok.mp4,2463,2523,61.0,2.007000000000005,29.892,34,True,1280.0,720.0
-ring,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_-DMFu-nAsok.mp4,2565,2619,55.0,1.8059999999999967,29.892,34,True,1280.0,720.0
+ring,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_-DMFu-nAsok.mp4,2565,2619,55.0,1.8059999999999972,29.892,34,True,1280.0,720.0
 doctor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_P6n_RCPh6Ug.mp4,10,80,71.0,2.334,30.0,29,True,540.0,360.0
 doctor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_P6n_RCPh6Ug.mp4,130,240,111.0,3.667,30.0,29,True,540.0,360.0
 game,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_-ChOGBEL5uE.mp4,3301,3349,49.0,1.602000000000004,29.97,26,True,1280.0,720.0
@@ -14634,7 +14634,7 @@ television,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,7208,7258,51
 light,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,7695,7745,51.0,1.6669999999999732,30.0,101,True,640.0,360.0
 light,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,7875,7935,61.0,2.0,30.0,101,True,640.0,360.0
 light,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,8015,8079,65.0,2.133000000000038,30.0,101,True,640.0,360.0
-lamp,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,8106,8198,93.0,3.067000000000008,30.0,101,True,640.0,360.0
+lamp,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,8106,8198,93.0,3.0670000000000077,30.0,101,True,640.0,360.0
 lamp,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,8198,8279,82.0,2.6999999999999886,30.0,101,True,640.0,360.0
 lamp,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,8358,8443,86.0,2.83299999999997,30.0,101,True,640.0,360.0
 sink,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_nHnqAu_1K-c.mp4,8929,9009,81.0,2.66700000000003,30.0,101,True,640.0,360.0
@@ -14838,7 +14838,7 @@ give,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,1013,1156,144.0,4.
 help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,1683,1740,58.0,1.902000000000001,29.97,26,True,1280.0,720.0
 need,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,2504,2557,54.0,1.7690000000000057,29.97,26,True,1280.0,720.0
 pencil,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,2595,2667,73.0,2.402000000000001,29.97,26,True,1280.0,720.0
-paper,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,2804,2859,56.0,1.8349999999999933,29.97,26,True,1280.0,720.0
+paper,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,2804,2859,56.0,1.8349999999999935,29.97,26,True,1280.0,720.0
 number,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,3082,3134,53.0,1.7349999999999994,29.97,26,True,1280.0,720.0
 21,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,3149,3208,60.0,1.9680000000000035,29.97,26,True,1280.0,720.0
 22,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UlRyKsP78qQ.mp4,3229,3259,31.0,1.0010000000000048,29.97,26,True,1280.0,720.0
@@ -14879,7 +14879,7 @@ laugh,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZIXqPaYEjkA.mp4,0,134,135.0,4.467
 headache,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Z7Z6RzQ4vCU.mp4,366,446,81.0,2.67,29.97,26,True,1280.0,720.0
 hurt,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Z7Z6RzQ4vCU.mp4,587,677,91.0,3.003,29.97,26,True,1280.0,720.0
 hurt,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Z7Z6RzQ4vCU.mp4,717,801,85.0,2.803000000000001,29.97,26,True,1280.0,720.0
-cough,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Z7Z6RzQ4vCU.mp4,1070,1170,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+cough,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Z7Z6RzQ4vCU.mp4,1070,1170,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 cough,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Z7Z6RzQ4vCU.mp4,1220,1320,101.0,3.336999999999996,29.97,26,True,1280.0,720.0
 cold,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Z7Z6RzQ4vCU.mp4,1335,1406,72.0,2.3700000000000045,29.97,26,True,1280.0,720.0
 sore throat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Z7Z6RzQ4vCU.mp4,1428,1496,69.0,2.2689999999999984,29.97,26,True,1280.0,720.0
@@ -14904,7 +14904,7 @@ boat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2P9wXIPhGUQ.mp4,689,748,60.0,1.968
 bicycle,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2P9wXIPhGUQ.mp4,774,846,73.0,2.402000000000001,29.97,90,True,640.0,360.0
 truck,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2P9wXIPhGUQ.mp4,965,1054,90.0,2.969000000000001,29.97,90,True,640.0,360.0
 hello,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,118,158,41.0,1.3350000000000004,29.97,26,True,1280.0,720.0
-sign,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,173,232,60.0,1.969,29.97,26,True,1280.0,720.0
+sign,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,173,232,60.0,1.9689999999999996,29.97,26,True,1280.0,720.0
 bored,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,799,856,58.0,1.902000000000001,29.97,26,True,1280.0,720.0
 excited,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,908,1008,101.0,3.337,29.97,26,True,1280.0,720.0
 excited,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,1098,1158,61.0,2.0020000000000024,29.97,26,True,1280.0,720.0
@@ -14912,7 +14912,7 @@ excited,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,1158,1278,121.0
 mad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,1326,1378,53.0,1.7349999999999994,29.97,26,True,1280.0,720.0
 sad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,1419,1505,87.0,2.869999999999997,29.97,26,True,1280.0,720.0
 sick,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,1550,1651,102.0,3.369999999999997,29.97,26,True,1280.0,720.0
-afraid,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,1807,1864,58.0,1.901000000000004,29.97,26,True,1280.0,720.0
+afraid,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,1807,1864,58.0,1.9010000000000036,29.97,26,True,1280.0,720.0
 can,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,2160,2214,55.0,1.8019999999999925,29.97,26,True,1280.0,720.0
 can't,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,2258,2332,75.0,2.4690000000000083,29.97,26,True,1280.0,720.0
 know,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,2387,2444,58.0,1.902000000000001,29.97,26,True,1280.0,720.0
@@ -14941,7 +14941,7 @@ eighteen,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,4533,4578,46.0
 nineteen,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,4600,4644,45.0,1.4680000000000175,29.97,26,True,1280.0,720.0
 twenty,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xQR5y_xUtpA.mp4,4672,4714,43.0,1.400999999999982,29.97,26,True,1280.0,720.0
 last month,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hZGw_GkeVY4.mp4,40,128,89.0,2.934,30.0,29,True,540.0,360.0
-last month,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hZGw_GkeVY4.mp4,128,198,71.0,2.333,30.0,29,True,540.0,360.0
+last month,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hZGw_GkeVY4.mp4,128,198,71.0,2.3329999999999997,30.0,29,True,540.0,360.0
 ready,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,781,833,53.0,1.7339999999999982,30.0,101,True,640.0,360.0
 good,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,1689,1729,41.0,1.3330000000000055,30.0,101,True,640.0,360.0
 good,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,1749,1829,81.0,2.6670000000000016,30.0,101,True,640.0,360.0
@@ -14952,7 +14952,7 @@ sad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,2825,2942,118.0,3.8
 mad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,3078,3128,51.0,1.6670000000000016,30.0,101,True,640.0,360.0
 mad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,3148,3208,61.0,2.0,30.0,101,True,640.0,360.0
 fine,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,3371,3422,52.0,1.6999999999999886,30.0,101,True,640.0,360.0
-so,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,3795,3857,63.0,2.067000000000008,30.0,101,True,640.0,360.0
+so,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,3795,3857,63.0,2.0670000000000077,30.0,101,True,640.0,360.0
 so,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,3833,3867,35.0,1.1330000000000098,30.0,101,True,640.0,360.0
 so,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,3873,3958,86.0,2.8329999999999984,30.0,101,True,640.0,360.0
 frustrated,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,5269,5329,61.0,2.0,30.0,101,True,640.0,360.0
@@ -14966,7 +14966,7 @@ tired,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,8453,8581,129.0,4
 hungry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,9110,9160,51.0,1.6660000000000537,30.0,101,True,640.0,360.0
 nervous,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,9364,9434,71.0,2.334000000000003,30.0,101,True,640.0,360.0
 lonely,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,10265,10382,118.0,3.900000000000034,30.0,101,True,640.0,360.0
-surprise,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,11137,11244,108.0,3.567000000000008,30.0,101,True,640.0,360.0
+surprise,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,11137,11244,108.0,3.5670000000000077,30.0,101,True,640.0,360.0
 bored,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,12281,12331,51.0,1.6659999999999968,30.0,101,True,640.0,360.0
 bored,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,12351,12421,71.0,2.333000000000027,30.0,101,True,640.0,360.0
 jealous,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_91foGHKuwL0.mp4,13364,13414,51.0,1.6659999999999968,30.0,101,True,640.0,360.0
@@ -15013,7 +15013,7 @@ cousin,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,1529,1582,54.0,1
 niece,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,1615,1672,58.0,1.902000000000001,29.97,26,True,1280.0,720.0
 pet,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,1723,1795,73.0,2.402000000000001,29.97,26,True,1280.0,720.0
 pet,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,1835,1886,52.0,1.7019999999999982,29.97,26,True,1280.0,720.0
-bird,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,1908,1963,56.0,1.8349999999999933,29.97,26,True,1280.0,720.0
+bird,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,1908,1963,56.0,1.8349999999999935,29.97,26,True,1280.0,720.0
 cat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,2004,2076,73.0,2.402000000000001,29.97,26,True,1280.0,720.0
 cat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,2116,2174,59.0,1.9350000000000025,29.97,26,True,1280.0,720.0
 dog,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_sUC-XDC5TvA.mp4,2228,2368,141.0,4.671000000000007,29.97,26,True,1280.0,720.0
@@ -15067,7 +15067,7 @@ from,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_5QO6BTt9-T0.mp4,3692,3772,81.0,2.6
 happen,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_5QO6BTt9-T0.mp4,3825,3905,81.0,2.6700000000000017,29.97,26,True,1280.0,720.0
 happen,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_5QO6BTt9-T0.mp4,3905,4015,111.0,3.670000000000016,29.97,26,True,1280.0,720.0
 hello,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_H3eHAKpTF70.mp4,106,136,31.0,1.0010000000000003,29.97,26,True,1280.0,720.0
-area,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_H3eHAKpTF70.mp4,1032,1132,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+area,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_H3eHAKpTF70.mp4,1032,1132,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 cafeteria,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_H3eHAKpTF70.mp4,1262,1342,81.0,2.668999999999997,29.97,26,True,1280.0,720.0
 hallway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_H3eHAKpTF70.mp4,1520,1593,74.0,2.436,29.97,26,True,1280.0,720.0
 library,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_H3eHAKpTF70.mp4,1642,1713,72.0,2.369,29.97,26,True,1280.0,720.0
@@ -15113,7 +15113,7 @@ gymnastics,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,1870,1970,10
 gymnastics,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,2000,2050,51.0,1.668999999999997,29.97,26,True,1280.0,720.0
 hockey,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,2096,2176,81.0,2.668999999999997,29.97,26,True,1280.0,720.0
 ice-skating,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,2324,2444,121.0,4.004000000000005,29.97,26,True,1280.0,720.0
-ice-skating,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,2444,2544,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+ice-skating,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,2444,2544,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 run,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,2590,2680,91.0,3.003,29.97,26,True,1280.0,720.0
 run,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,2860,2942,83.0,2.736000000000004,29.97,26,True,1280.0,720.0
 snowboard,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_UIAYf-tC9g8.mp4,3872,4002,131.0,4.336999999999989,29.97,26,True,1280.0,720.0
@@ -15244,7 +15244,7 @@ separate,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,4955,5032,78.0
 stuck,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,5168,5218,51.0,1.6680000000000064,29.97,26,True,1280.0,720.0
 if,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,5237,5303,67.0,2.201999999999998,29.97,26,True,1280.0,720.0
 better,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,5423,5484,62.0,2.0360000000000014,29.97,26,True,1280.0,720.0
-hurry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,5516,5580,65.0,2.13500000000002,29.97,26,True,1280.0,720.0
+hurry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,5516,5580,65.0,2.1350000000000198,29.97,26,True,1280.0,720.0
 city,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,5601,5668,68.0,2.2350000000000136,29.97,26,True,1280.0,720.0
 now,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,6064,6100,37.0,1.2019999999999982,29.97,26,True,1280.0,720.0
 with,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw__nz_sivss20.mp4,6775,6831,57.0,1.869,29.97,26,True,1280.0,720.0
@@ -15310,7 +15310,7 @@ break up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9p6eojPZWu4.mp4,2301,2381,81.0
 flirt,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9p6eojPZWu4.mp4,2550,2672,123.0,4.071000000000012,29.97,26,True,1280.0,720.0
 date,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9p6eojPZWu4.mp4,2729,2783,55.0,1.8009999999999875,29.97,26,True,1280.0,720.0
 autumn in love,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9p6eojPZWu4.mp4,2827,2907,81.0,2.668999999999997,29.97,26,True,1280.0,720.0
-love,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9p6eojPZWu4.mp4,2957,3012,56.0,1.8349999999999933,29.97,26,True,1280.0,720.0
+love,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9p6eojPZWu4.mp4,2957,3012,56.0,1.8349999999999935,29.97,26,True,1280.0,720.0
 relationship,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9p6eojPZWu4.mp4,3047,3132,86.0,2.8359999999999985,29.97,26,True,1280.0,720.0
 together,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_9p6eojPZWu4.mp4,3165,3233,69.0,2.2680000000000007,29.97,26,True,1280.0,720.0
 broke,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_GlTv1MlDW-o.mp4,246,282,37.0,1.200000000000001,30.0,34,True,1280.0,720.0
@@ -15564,7 +15564,7 @@ teach,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,10757,10817,61.0,
 teacher,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,10867,10977,111.0,3.670000000000016,29.97,26,True,1280.0,720.0
 thank you,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,11027,11097,71.0,2.335999999999956,29.97,26,True,1280.0,720.0
 tired,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,11101,11242,142.0,4.704999999999984,29.97,26,True,1280.0,720.0
-day,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,11344,11408,65.0,2.135999999999968,29.97,26,True,1280.0,720.0
+day,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,11344,11408,65.0,2.1359999999999677,29.97,26,True,1280.0,720.0
 day,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,11462,11562,101.0,3.3360000000000127,29.97,26,True,1280.0,720.0
 tomorrow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,11902,12012,111.0,3.670000000000016,29.97,26,True,1280.0,720.0
 understand,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FwGL9FjFpYI.mp4,12014,12129,116.0,3.836999999999989,29.97,26,True,1280.0,720.0
@@ -15615,7 +15615,7 @@ fish,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_qzjVxb4dACY.mp4,1733,1805,73.0,2.4
 hike,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_qzjVxb4dACY.mp4,1865,1953,89.0,2.936000000000007,29.97,26,True,1280.0,720.0
 hike,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_qzjVxb4dACY.mp4,1997,2067,71.0,2.3359999999999985,29.97,26,True,1280.0,720.0
 play cardss,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_qzjVxb4dACY.mp4,2106,2196,91.0,3.003,29.97,26,True,1280.0,720.0
-skateboard,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_qzjVxb4dACY.mp4,2461,2561,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+skateboard,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_qzjVxb4dACY.mp4,2461,2561,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 hear,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_qzjVxb4dACY.mp4,2883,2949,67.0,2.201999999999998,29.97,26,True,1280.0,720.0
 talk,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_qzjVxb4dACY.mp4,2987,3124,138.0,4.570999999999998,29.97,26,True,1280.0,720.0
 people,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,389,464,76.0,2.501999999999999,29.97,26,True,1280.0,720.0
@@ -15636,7 +15636,7 @@ korea,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,5569,5659,91.0,3.
 japan,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,5905,6015,111.0,3.670999999999992,29.97,26,True,1280.0,720.0
 hearing help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,6199,6309,111.0,3.669999999999988,29.97,26,True,1280.0,720.0
 hearing help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,6329,6409,81.0,2.669000000000011,29.97,26,True,1280.0,720.0
-hearing help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,6449,6513,65.0,2.13500000000002,29.97,26,True,1280.0,720.0
+hearing help,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,6449,6513,65.0,2.1350000000000198,29.97,26,True,1280.0,720.0
 cochlear implant,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,6546,6626,81.0,2.6699999999999875,29.97,26,True,1280.0,720.0
 cochlear implant,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,6666,6771,106.0,3.5039999999999907,29.97,26,True,1280.0,720.0
 example,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_Zw73N_j0eRg.mp4,8476,8511,36.0,1.1680000000000064,29.97,26,True,1280.0,720.0
@@ -15720,9 +15720,9 @@ before,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,1680,1790,111.0,
 last month,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,2370,2497,128.0,4.238,29.97,26,True,1280.0,720.0
 last week,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,2659,2739,81.0,2.669000000000011,29.97,26,True,1280.0,720.0
 last week,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,2779,2874,96.0,3.1700000000000017,29.97,26,True,1280.0,720.0
-last year,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,2951,3051,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+last year,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,2951,3051,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 last year,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,3071,3131,61.0,2.002000000000009,29.97,26,True,1280.0,720.0
-fast,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,3453,3553,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+fast,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,3453,3553,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 long,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,3656,3729,74.0,2.4350000000000023,29.97,26,True,1280.0,720.0
 stay,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,3763,3858,96.0,3.170000000000016,29.97,26,True,1280.0,720.0
 soon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_fvo9sildXos.mp4,4004,4104,101.0,3.337000000000017,29.97,26,True,1280.0,720.0
@@ -15764,7 +15764,7 @@ senior,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_xbVVThaez2g.mp4,2342,2395,54.0,1
 good,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1r5V8ZGwnJg.mp4,79,105,27.0,0.871,29.874,34,True,1280.0,720.0
 first,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1r5V8ZGwnJg.mp4,123,141,19.0,0.6029999999999998,29.874,34,True,1280.0,720.0
 now,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1r5V8ZGwnJg.mp4,322,347,26.0,0.8369999999999997,29.874,34,True,1280.0,720.0
-mainstreamed,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1r5V8ZGwnJg.mp4,479,538,60.0,1.9750000000000008,29.874,34,True,1280.0,720.0
+mainstreamed,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1r5V8ZGwnJg.mp4,479,538,60.0,1.9750000000000012,29.874,34,True,1280.0,720.0
 which,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1r5V8ZGwnJg.mp4,555,610,56.0,1.841000000000001,29.874,34,True,1280.0,720.0
 class,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1r5V8ZGwnJg.mp4,653,704,52.0,1.7069999999999972,29.874,34,True,1280.0,720.0
 here,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1r5V8ZGwnJg.mp4,750,794,45.0,1.472999999999999,29.874,34,True,1280.0,720.0
@@ -15804,7 +15804,7 @@ hello,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,10,45,36.0,1.168,
 love it,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,705,760,56.0,1.8350000000000009,29.97,26,True,1280.0,720.0
 city,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,812,960,149.0,4.937999999999995,29.97,26,True,1280.0,720.0
 my,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,1011,1054,44.0,1.4339999999999975,29.97,26,True,1280.0,720.0
-your,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,1068,1123,56.0,1.8349999999999933,29.97,26,True,1280.0,720.0
+your,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,1068,1123,56.0,1.8349999999999935,29.97,26,True,1280.0,720.0
 his,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,1153,1224,72.0,2.369,29.97,26,True,1280.0,720.0
 our,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,1271,1337,67.0,2.201999999999998,29.97,26,True,1280.0,720.0
 your,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_exk-qIRNw7Y.mp4,1376,1459,84.0,2.769000000000005,29.97,26,True,1280.0,720.0
@@ -15950,7 +15950,7 @@ strawberry,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,959,1014,56.
 sugar,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,1060,1122,63.0,2.073999999999998,29.891,34,True,1280.0,720.0
 sweet,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,1142,1188,47.0,1.5389999999999944,29.891,34,True,1280.0,720.0
 tea,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,1371,1417,47.0,1.5390000000000017,29.891,34,True,1280.0,720.0
-toast,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,1454,1509,56.0,1.840000000000004,29.891,34,True,1280.0,720.0
+toast,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,1454,1509,56.0,1.8400000000000036,29.891,34,True,1280.0,720.0
 tomato,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,1568,1616,49.0,1.6060000000000016,29.891,34,True,1280.0,720.0
 vegetable,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,1637,1689,53.0,1.740000000000002,29.891,34,True,1280.0,720.0
 water,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_HPUrVQbnNiU.mp4,1924,1974,51.0,1.6730000000000018,29.891,34,True,1280.0,720.0
@@ -16003,7 +16003,7 @@ corn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1203,1252,50.0,1.6
 cracker,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1277,1327,51.0,1.6730000000000018,29.897,34,True,1280.0,720.0
 dessert,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1427,1483,57.0,1.8729999999999976,29.897,34,True,1280.0,720.0
 fish,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1493,1611,119.0,3.946999999999996,29.897,34,True,1280.0,720.0
-france fries,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1750,1808,59.0,1.9399999999999973,29.897,34,True,1280.0,720.0
+france fries,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1750,1808,59.0,1.9399999999999975,29.897,34,True,1280.0,720.0
 fruit,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1836,1883,48.0,1.5719999999999956,29.897,34,True,1280.0,720.0
 grapes,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1916,1978,63.0,2.073999999999998,29.897,34,True,1280.0,720.0
 gum,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KFSLtsOwZiU.mp4,1991,2026,36.0,1.1710000000000065,29.897,34,True,1280.0,720.0
@@ -16067,7 +16067,7 @@ dorm,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,323,423,101.0,3.33
 house,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,582,675,94.0,3.103999999999999,29.97,26,True,1280.0,720.0
 have,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,2415,2488,74.0,2.4350000000000023,29.97,26,True,1280.0,720.0
 basement,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,3005,3135,131.0,4.338000000000008,29.97,26,True,1280.0,720.0
-bedroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,3431,3531,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+bedroom,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,3431,3531,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 dining room,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,3711,3845,135.0,4.470999999999989,29.97,26,True,1280.0,720.0
 elevator,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,3976,4119,144.0,4.771000000000015,29.97,26,True,1280.0,720.0
 elevator,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_c6XoNo1NKRQ.mp4,4119,4190,72.0,2.369,29.97,26,True,1280.0,720.0
@@ -16084,7 +16084,7 @@ pow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,326,406,81.0,2.6690
 example,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,563,606,44.0,1.4349999999999987,29.97,26,True,1280.0,720.0
 pow,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,1123,1160,38.0,1.2340000000000018,29.97,26,True,1280.0,720.0
 better,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,1815,1995,181.0,6.006999999999991,29.97,26,True,1280.0,720.0
-cough,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,2826,2926,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+cough,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,2826,2926,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 cough,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,2966,3086,121.0,4.004000000000005,29.97,26,True,1280.0,720.0
 cough,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,3086,3181,96.0,3.168999999999997,29.97,26,True,1280.0,720.0
 doctor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1kNszi0e9XU.mp4,3190,3270,81.0,2.668999999999997,29.97,26,True,1280.0,720.0
@@ -16116,9 +16116,9 @@ flower,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,1653,1733,81.0,2
 hill,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,1777,1872,96.0,3.169000000000004,29.97,26,True,1280.0,720.0
 island,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,1909,2019,111.0,3.6700000000000017,29.97,26,True,1280.0,720.0
 island,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,2059,2289,231.0,7.674000000000007,29.97,26,True,1280.0,720.0
-lake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,2321,2421,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+lake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,2321,2421,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 lake,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,2436,2533,98.0,3.2369999999999948,29.97,26,True,1280.0,720.0
-moon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,2585,2697,113.0,3.7369999999999934,29.97,26,True,1280.0,720.0
+moon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,2585,2697,113.0,3.7369999999999943,29.97,26,True,1280.0,720.0
 sun,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,2829,2919,91.0,3.003,29.97,26,True,1280.0,720.0
 sun,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,2939,3009,71.0,2.335000000000008,29.97,26,True,1280.0,720.0
 sun,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_iPz69Df6pBM.mp4,3069,3149,81.0,2.6700000000000017,29.97,26,True,1280.0,720.0
@@ -16194,12 +16194,12 @@ tennis,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,982,1029,48.0,1.
 hike,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,1044,1125,82.0,2.710000000000001,29.888,34,True,406.0,720.0
 camping,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,1170,1244,75.0,2.475999999999999,29.888,34,True,406.0,720.0
 bowling,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,1416,1458,43.0,1.404999999999994,29.888,34,True,406.0,720.0
-skiing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,1495,1553,59.0,1.9399999999999973,29.888,34,True,406.0,720.0
-ball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,2071,2126,56.0,1.840000000000004,29.888,34,True,406.0,720.0
+skiing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,1495,1553,59.0,1.9399999999999975,29.888,34,True,406.0,720.0
+ball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,2071,2126,56.0,1.8400000000000036,29.888,34,True,406.0,720.0
 ice-skating,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,2455,2506,52.0,1.706000000000003,29.888,34,True,406.0,720.0
 golf,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,2532,2567,36.0,1.1710000000000065,29.888,34,True,406.0,720.0
 gold,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,2752,2792,41.0,1.338000000000008,29.888,34,True,406.0,720.0
-silver,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,2814,2869,56.0,1.840000000000004,29.888,34,True,406.0,720.0
+silver,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,2814,2869,56.0,1.8400000000000036,29.888,34,True,406.0,720.0
 dance,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,3004,3051,48.0,1.5730000000000075,29.888,34,True,406.0,720.0
 volleyball,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uAd_WUgKZzI.mp4,3073,3122,50.0,1.63900000000001,29.888,34,True,406.0,720.0
 lost,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_1v-MqrbC5Js.mp4,1475,1547,73.0,2.402000000000001,29.97,26,True,1280.0,720.0
@@ -16233,7 +16233,7 @@ manager,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,1535,1596,62.0,
 boss,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,1634,1678,45.0,1.4720000000000013,29.889,34,True,1280.0,720.0
 athlete,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,1726,1770,45.0,1.4720000000000013,29.889,34,True,1280.0,720.0
 artist,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,1938,1990,53.0,1.7399999999999949,29.889,34,True,1280.0,720.0
-musician,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,2049,2104,56.0,1.840000000000004,29.889,34,True,1280.0,720.0
+musician,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,2049,2104,56.0,1.8400000000000036,29.889,34,True,1280.0,720.0
 actor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,2171,2239,69.0,2.275999999999996,29.889,34,True,1280.0,720.0
 waiter,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,2286,2336,51.0,1.6730000000000018,29.889,34,True,1280.0,720.0
 principal,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_7klDf0ZSN_M.mp4,2627,2675,49.0,1.6060000000000088,29.889,34,True,1280.0,720.0
@@ -16245,10 +16245,10 @@ freeze cream,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,361,400,40
 jam,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,441,489,49.0,1.6050000000000004,29.893,34,True,1280.0,720.0
 jam,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,518,584,67.0,2.208000000000002,29.893,34,True,1280.0,720.0
 juice,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,618,653,36.0,1.1709999999999994,29.893,34,True,1280.0,720.0
-lemon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,716,774,59.0,1.9399999999999973,29.893,34,True,1280.0,720.0
+lemon,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,716,774,59.0,1.9399999999999975,29.893,34,True,1280.0,720.0
 meat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,785,858,74.0,2.442,29.893,34,True,1280.0,720.0
 milk,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,869,918,50.0,1.6389999999999991,29.893,34,True,1280.0,720.0
-nuts,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,944,1002,59.0,1.9399999999999973,29.893,34,True,1280.0,720.0
+nuts,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,944,1002,59.0,1.9399999999999975,29.893,34,True,1280.0,720.0
 onion,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1014,1078,65.0,2.1409999999999982,29.893,34,True,1280.0,720.0
 orange,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1098,1145,48.0,1.5719999999999956,29.893,34,True,1280.0,720.0
 peach,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1167,1223,57.0,1.8729999999999976,29.893,34,True,1280.0,720.0
@@ -16256,7 +16256,7 @@ pear,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1312,1354,43.0,1.4
 pepper,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1375,1431,57.0,1.8740000000000023,29.893,34,True,1280.0,720.0
 pie,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1529,1576,48.0,1.5719999999999956,29.893,34,True,1280.0,720.0
 pizza,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1613,1670,58.0,1.9069999999999965,29.893,34,True,1280.0,720.0
-popcorn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1715,1773,59.0,1.9399999999999973,29.893,34,True,1280.0,720.0
+popcorn,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1715,1773,59.0,1.9399999999999975,29.893,34,True,1280.0,720.0
 potato,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1897,1936,40.0,1.3049999999999926,29.893,34,True,1280.0,720.0
 pumpkin,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,1957,2010,54.0,1.772999999999996,29.893,34,True,1280.0,720.0
 salad,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_6Mmgrtw_Zro.mp4,2040,2082,43.0,1.4050000000000011,29.893,34,True,1280.0,720.0
@@ -16265,7 +16265,7 @@ actor,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,944,1022,79.0,2.6
 watch,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,1629,1702,74.0,2.436,29.97,26,True,1280.0,720.0
 watch,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,1782,1857,76.0,2.503,29.97,26,True,1280.0,720.0
 dark,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,1912,1983,72.0,2.369,29.97,26,True,1280.0,720.0
-light,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,2060,2145,86.0,2.837000000000004,29.97,26,True,1280.0,720.0
+light,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,2060,2145,86.0,2.8370000000000037,29.97,26,True,1280.0,720.0
 email,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,2559,2629,71.0,2.3359999999999985,29.97,26,True,1280.0,720.0
 email,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,2699,2769,71.0,2.3349999999999937,29.97,26,True,1280.0,720.0
 email,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FKcrtW0JkyA.mp4,3331,3408,78.0,2.569999999999993,29.97,26,True,1280.0,720.0
@@ -16281,7 +16281,7 @@ destroy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pTMa7WMReyk.mp4,706,836,131.0,4
 destroy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pTMa7WMReyk.mp4,836,896,61.0,2.001999999999999,29.97,26,True,1280.0,720.0
 education,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pTMa7WMReyk.mp4,1296,1340,45.0,1.4679999999999964,29.97,26,True,1280.0,720.0
 leave,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pTMa7WMReyk.mp4,1704,1852,149.0,4.938000000000002,29.97,26,True,1280.0,720.0
-lie,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pTMa7WMReyk.mp4,2010,2110,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+lie,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pTMa7WMReyk.mp4,2010,2110,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 true,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pTMa7WMReyk.mp4,2452,2594,143.0,4.738,29.97,26,True,1280.0,720.0
 bathtub,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KTg_RPJ0FFU.mp4,180,285,106.0,3.504,29.97,138,True,640.0,360.0
 mirror,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_KTg_RPJ0FFU.mp4,488,551,64.0,2.1020000000000003,29.97,138,True,640.0,360.0
@@ -16332,7 +16332,7 @@ all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,662,752,91.0,3.003,
 all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,812,862,51.0,1.6679999999999993,29.97,26,True,1280.0,720.0
 all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,911,991,81.0,2.669000000000004,29.97,26,True,1280.0,720.0
 all,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,1031,1089,59.0,1.9349999999999952,29.97,26,True,1280.0,720.0
-most,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,1125,1182,58.0,1.901000000000004,29.97,26,True,1280.0,720.0
+most,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,1125,1182,58.0,1.9010000000000036,29.97,26,True,1280.0,720.0
 many,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,1220,1284,65.0,2.136000000000003,29.97,26,True,1280.0,720.0
 few,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,1400,1456,57.0,1.869,29.97,26,True,1280.0,720.0
 nothing,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CkWIOay05mU.mp4,1481,1538,58.0,1.902000000000001,29.97,26,True,1280.0,720.0
@@ -16374,7 +16374,7 @@ paper,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,3887,3962,76.0,2.
 want,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,3996,4066,71.0,2.3360000000000127,29.97,101,True,360.0,360.0
 want,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,4096,4176,81.0,2.669000000000011,29.97,101,True,360.0,360.0
 have,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,4997,5077,81.0,2.6699999999999875,29.97,101,True,360.0,360.0
-have,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,5097,5161,65.0,2.13500000000002,29.97,101,True,360.0,360.0
+have,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,5097,5161,65.0,2.1350000000000198,29.97,101,True,360.0,360.0
 eat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,6276,6336,61.0,2.002000000000009,29.97,101,True,360.0,360.0
 eat,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,6506,6556,51.0,1.6680000000000064,29.97,101,True,360.0,360.0
 pay,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_FBimL8-ND3E.mp4,7087,7167,81.0,2.669000000000011,29.97,101,True,360.0,360.0
@@ -16388,7 +16388,7 @@ christmas,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_hmGz6bDFhCg.mp4,80,170,91.0,3
 hello,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,282,301,20.0,0.6329999999999991,30.0,34,True,1280.0,720.0
 ready,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,324,344,21.0,0.6669999999999998,30.0,34,True,1280.0,720.0
 south africa,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,413,475,63.0,2.0660000000000007,30.0,34,True,1280.0,720.0
-austria,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,528,609,82.0,2.7,30.0,34,True,1280.0,720.0
+austria,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,528,609,82.0,2.6999999999999997,30.0,34,True,1280.0,720.0
 cuba,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,855,945,91.0,3.0,30.0,34,True,1280.0,720.0
 english,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,1024,1091,68.0,2.2339999999999947,30.0,34,True,1280.0,720.0
 turkey,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,1127,1197,71.0,2.3329999999999984,30.0,34,True,1280.0,720.0
@@ -16399,7 +16399,7 @@ switzerland,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,1704,1770,6
 argentina,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,1815,1893,79.0,2.6000000000000014,30.0,34,True,1280.0,720.0
 mexico,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,1951,2020,70.0,2.299999999999997,30.0,34,True,1280.0,720.0
 japan,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,2029,2075,47.0,1.534000000000006,30.0,34,True,1280.0,720.0
-egypt,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,2113,2170,58.0,1.899999999999992,30.0,34,True,1280.0,720.0
+egypt,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,2113,2170,58.0,1.8999999999999917,30.0,34,True,1280.0,720.0
 russia,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,2196,2252,57.0,1.8669999999999904,30.0,34,True,1280.0,720.0
 china,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,2278,2325,48.0,1.566999999999993,30.0,34,True,1280.0,720.0
 spain,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_2TQMVwOkHWw.mp4,2368,2437,70.0,2.299999999999997,30.0,34,True,1280.0,720.0
@@ -16432,7 +16432,7 @@ soap,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_QUBpG3p7RmI.mp4,888,980,93.0,3.068
 bicycle,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pl6PUylArwo.mp4,1323,1381,59.0,1.9350000000000025,29.97,26,True,1280.0,720.0
 motorcycle,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pl6PUylArwo.mp4,1399,1453,55.0,1.802,29.97,26,True,1280.0,720.0
 horse,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pl6PUylArwo.mp4,1954,2083,130.0,4.305000000000007,29.97,26,True,1280.0,720.0
-freeway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pl6PUylArwo.mp4,2565,2675,111.0,3.671000000000008,29.97,26,True,1280.0,720.0
+freeway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pl6PUylArwo.mp4,2565,2675,111.0,3.6710000000000074,29.97,26,True,1280.0,720.0
 freeway,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pl6PUylArwo.mp4,2685,2780,96.0,3.168999999999997,29.97,26,True,1280.0,720.0
 intersection,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pl6PUylArwo.mp4,2817,2927,111.0,3.6700000000000017,29.97,26,True,1280.0,720.0
 left,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_pl6PUylArwo.mp4,3094,3157,64.0,2.1029999999999944,29.97,26,True,1280.0,720.0
@@ -16449,7 +16449,7 @@ ready,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,1545,1601,57.0,1.
 restaurant,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,1646,1789,144.0,4.771000000000001,29.97,26,True,1280.0,720.0
 with,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,1847,1894,48.0,1.5679999999999978,29.97,26,True,1280.0,720.0
 monday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,2038,2092,55.0,1.8019999999999925,29.97,26,True,1280.0,720.0
-tuesday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,2135,2190,56.0,1.8349999999999933,29.97,26,True,1280.0,720.0
+tuesday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,2135,2190,56.0,1.8349999999999935,29.97,26,True,1280.0,720.0
 wednesday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,2238,2291,54.0,1.768000000000001,29.97,26,True,1280.0,720.0
 thursday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,2320,2378,59.0,1.9350000000000025,29.97,26,True,1280.0,720.0
 friday,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_eBkzZg-9hd4.mp4,2419,2470,52.0,1.7019999999999982,29.97,26,True,1280.0,720.0
@@ -16509,7 +16509,7 @@ remember,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,1531,1611,81.0
 surprise,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,1913,1962,50.0,1.6350000000000051,29.97,26,True,1280.0,720.0
 join,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,1994,2059,66.0,2.168999999999997,29.97,26,True,1280.0,720.0
 stuck,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,2214,2262,49.0,1.600999999999999,29.97,26,True,1280.0,720.0
-pick up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,2364,2419,56.0,1.8349999999999933,29.97,26,True,1280.0,720.0
+pick up,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,2364,2419,56.0,1.8349999999999935,29.97,26,True,1280.0,720.0
 get,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,2456,2513,58.0,1.900999999999996,29.97,26,True,1280.0,720.0
 meeting,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,2948,3007,60.0,1.9690000000000083,29.97,26,True,1280.0,720.0
 appointment,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_8GcwJ3mZEgE.mp4,3042,3118,77.0,2.5360000000000014,29.97,26,True,1280.0,720.0
@@ -16557,7 +16557,7 @@ mother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,149,179,31.0,1.0
 father,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,214,257,44.0,1.4340000000000002,30.0,34,True,406.0,720.0
 son,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,288,353,66.0,2.167,30.0,34,True,406.0,720.0
 daughter,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,374,432,59.0,1.933,30.0,34,True,406.0,720.0
-brother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,463,544,82.0,2.7,30.0,34,True,406.0,720.0
+brother,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,463,544,82.0,2.6999999999999997,30.0,34,True,406.0,720.0
 sister,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,582,649,68.0,2.2330000000000005,30.0,34,True,406.0,720.0
 boy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,676,717,42.0,1.366999999999997,30.0,34,True,406.0,720.0
 girl,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_uE3IDWh0xnA.mp4,730,779,50.0,1.6340000000000003,30.0,34,True,406.0,720.0
@@ -16690,7 +16690,7 @@ before,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CgBSzRIXvE8.mp4,4232,4312,81.0,2
 before,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_CgBSzRIXvE8.mp4,4342,4425,84.0,2.7700000000000102,29.97,26,True,1280.0,720.0
 hello,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZgUBU0NNEDU.mp4,106,146,41.0,1.335,29.97,26,True,1280.0,720.0
 fix,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZgUBU0NNEDU.mp4,897,1037,141.0,4.670999999999999,29.97,26,True,1280.0,720.0
-build,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZgUBU0NNEDU.mp4,1165,1265,101.0,3.337000000000004,29.97,26,True,1280.0,720.0
+build,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZgUBU0NNEDU.mp4,1165,1265,101.0,3.3370000000000037,29.97,26,True,1280.0,720.0
 build,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZgUBU0NNEDU.mp4,1265,1349,85.0,2.8029999999999973,29.97,26,True,1280.0,720.0
 paint,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZgUBU0NNEDU.mp4,1837,1934,98.0,3.236000000000004,29.97,26,True,1280.0,720.0
 enjoy,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_ZgUBU0NNEDU.mp4,4850,4978,129.0,4.270999999999987,29.97,26,True,1280.0,720.0
@@ -16774,7 +16774,7 @@ believe,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g5KHrQrZRmY.mp4,1740,1798,59.0,
 island,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g5KHrQrZRmY.mp4,1823,1866,44.0,1.4329999999999998,30.0,34,True,1280.0,720.0
 world,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g5KHrQrZRmY.mp4,1996,2044,49.0,1.5999999999999943,30.0,34,True,1280.0,720.0
 newspaper,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g5KHrQrZRmY.mp4,2361,2410,50.0,1.6329999999999956,30.0,34,True,1280.0,720.0
-magazine,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g5KHrQrZRmY.mp4,2434,2496,63.0,2.067000000000008,30.0,34,True,1280.0,720.0
+magazine,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g5KHrQrZRmY.mp4,2434,2496,63.0,2.0670000000000077,30.0,34,True,1280.0,720.0
 book,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_g5KHrQrZRmY.mp4,2528,2557,30.0,0.9660000000000082,30.0,34,True,1280.0,720.0
 bear,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_PpKJpKpEpy4.mp4,451,516,66.0,2.1689999999999987,29.97,26,True,1280.0,720.0
 deer,msasl,MS-ASL/videos_MS_ASL_raw/msasl_raw_PpKJpKpEpy4.mp4,573,632,60.0,1.9690000000000007,29.97,26,True,1280.0,720.0
