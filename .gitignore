@@ -24,10 +24,13 @@ htmlcov/
 .DS_Store
 Thumbs.db
 .vscode/
+.claude/
 
 # Local logs and temp files
 *.log
 *.tmp
+
+*.zip
 
 # Large / generated datasets and media
 kaggle_dataset/videos/
