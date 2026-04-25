@@ -35,6 +35,7 @@ Thumbs.db
 # Large / generated datasets and media
 kaggle_dataset/videos/
 normalized_videos/
+normalized_frames/
 
 # Optional generated exports
 merged_datasets/universal_metadata_topn_videos_augmented.csv
