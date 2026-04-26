@@ -10,3 +10,4 @@ yt-dlp>=2025.1.0
 scikit-learn>=1.5,<2.0
 seaborn>=0.13,<1.0
 requests>=2.32,<3.0
+torch>=2.3,<3.0
