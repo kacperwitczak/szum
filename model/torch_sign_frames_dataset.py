@@ -229,7 +229,7 @@ class SignFramesDataset(Dataset):
             p for p in sorted(frames_dir.iterdir()) if p.is_file() and p.suffix.lower() in self.frame_extensions
         ]
         if len(frame_files) == 0:
-            raise RuntimeError(f"No frame files found in: {frames_dir}")
+             raise RuntimeError(f"No frame files found in: {frames_dir}")
 
         frames: list[np.ndarray] = []
         for fp in frame_files:

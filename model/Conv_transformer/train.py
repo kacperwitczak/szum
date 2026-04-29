@@ -25,11 +25,11 @@ from torch.optim.lr_scheduler import CosineAnnealingLR
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 
-PROJECT_ROOT = Path(__file__).resolve().parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from model.model_2d_conv_transformer import Conv2DTransformer
+from model.Conv_transformer.model_2d_conv_transformer import Conv2DTransformer
 from model.torch_sign_frames_dataset import SignFramesDataset
 
 
@@ -114,8 +114,8 @@ def main() -> None:
         default=None,
         help="Path to split CSV.",
     )
-    parser.add_argument("--sequence-length", type=int, default=64)
-    parser.add_argument("--batch-size", type=int, default=8)
+    parser.add_argument("--sequence-length", type=int, default=32)
+    parser.add_argument("--batch-size", type=int, default=4)
     parser.add_argument("--val-batch-size", type=int, default=16)
     parser.add_argument("--num-epochs", type=int, default=30)
     parser.add_argument("--lr", type=float, default=1e-4)

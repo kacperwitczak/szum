@@ -32,9 +32,16 @@ class Conv2DTransformer(nn.Module):
         nn.init.constant_(self.adapter.bias, 0.0)
 
         # ResNet50 backbone (pretrained ImageNet)
-        resnet50 = models.resnet50(weights="IMAGENET1K_V2")
-        self.encoder = nn.Sequential(*list(resnet50.children())[:-1])  # Remove avgpool + fc
-        self.encoder_dim = 2048
+        efficientnet_b0 = models.efficientnet_b0(weights="DEFAULT")
+        self.encoder = nn.Sequential(
+            efficientnet_b0.features,
+            efficientnet_b0.avgpool
+        )
+
+        for param in self.encoder.parameters():
+            param.requires_grad = False
+
+        self.encoder_dim = 1280
 
         # Positional embedding for temporal dimension
         self.pos_embed = nn.Parameter(torch.randn(1, 1024, self.encoder_dim) * 0.02)
@@ -48,7 +55,7 @@ class Conv2DTransformer(nn.Module):
             batch_first=True,
             activation="gelu",
         )
-        self.transformer = nn.TransformerEncoder(encoder_layer, num_layers=4)
+        self.transformer = nn.TransformerEncoder(encoder_layer, num_layers=3)
         self.norm = nn.LayerNorm(self.encoder_dim)
 
         # Classification head
