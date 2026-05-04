@@ -1,0 +1,7 @@
+{
+    "checkpoint": ".\\checkpoints\\dinov2_gru_20260502_134453\\best_model.pt",
+    "test_acc": 0.7409638554216867,
+    "test_precision": 0.8085052910052911,
+    "test_recall": 0.7520899470899473,
+    "test_f1": 0.7563043679348027
+}

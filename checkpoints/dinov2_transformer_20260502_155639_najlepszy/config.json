@@ -1,0 +1,13 @@
+{
+    "csv": ".\\merged_datasets\\split8c_frames_signer_disjoint.csv",
+    "batch_size": 8,
+    "num_workers": 12,
+    "epochs": 30,
+    "lr": 0.0003,
+    "patience": 10,
+    "unfreeze_epoch": 15,
+    "compile": false,
+    "output_dir": "./checkpoints",
+    "backbone": "dinov2",
+    "temporal": "transformer"
+}

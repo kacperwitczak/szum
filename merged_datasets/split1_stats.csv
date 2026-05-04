@@ -1,4 +1,0 @@
-split,n_rows,n_labels,n_augmented,pct_rows
-test,160,30,0,9.71
-train,1319,30,0,80.09
-val,168,30,0,10.2

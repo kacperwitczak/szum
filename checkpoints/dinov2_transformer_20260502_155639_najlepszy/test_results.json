@@ -1,0 +1,7 @@
+{
+    "checkpoint": ".\\checkpoints\\dinov2_transformer_20260502_155639\\best_model.pt",
+    "test_acc": 0.8072289156626506,
+    "test_precision": 0.8476984126984128,
+    "test_recall": 0.8071560846560847,
+    "test_f1": 0.8023457098457099
+}

@@ -1,0 +1,15 @@
+{
+    "csv": ".\\merged_datasets\\SPLIT1.csv",
+    "batch_size": 8,
+    "num_workers": 12,
+    "epochs": 30,
+    "lr": 0.0003,
+    "patience": 10,
+    "unfreeze_epoch": 15,
+    "dropout": 0.0,
+    "compile": false,
+    "no_aug": true,
+    "output_dir": "./checkpoints",
+    "backbone": "dinov2",
+    "temporal": "transformer"
+}

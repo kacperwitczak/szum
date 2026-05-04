@@ -1,0 +1,10 @@
+{
+    "csv": ".\\merged_datasets\\split8c_frames_signer_disjoint.csv",
+    "batch_size": 8,
+    "epochs": 30,
+    "lr": 0.0003,
+    "backbone": "dinov2",
+    "temporal": "gru",
+    "num_workers": 12,
+    "unfreeze_epoch": 15
+}

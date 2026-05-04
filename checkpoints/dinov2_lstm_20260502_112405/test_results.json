@@ -1,0 +1,7 @@
+{
+    "checkpoint": ".\\checkpoints\\dinov2_lstm_20260502_112405\\best_model.pt",
+    "test_acc": 0.7650602409638554,
+    "test_precision": 0.8090008140008141,
+    "test_recall": 0.7745767195767195,
+    "test_f1": 0.7666212048820745
+}
