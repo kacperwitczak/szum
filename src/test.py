@@ -20,7 +20,6 @@ def parse_args():
     parser.add_argument("--batch-size", type=int, default=8, help="Batch size per GPU")
     parser.add_argument("--num-workers", type=int, default=os.cpu_count() or 4, help="Dataloader workers")
     
-    # Architecture choices
     parser.add_argument("--backbone", type=str, default="efficientnet", choices=["efficientnet", "dinov2", "video_swin_t"], help="Vision backbone")
     parser.add_argument("--temporal", type=str, default="transformer", choices=["transformer", "gru", "lstm"], help="Temporal aggregation model")
     
@@ -58,7 +57,7 @@ def main():
     print(f"Initializing Model: {args.backbone.upper()} + {args.temporal.upper()}")
     model = SignModel(
         num_classes=num_classes, 
-        freeze_backbone=True, # doesn't matter for inference
+        freeze_backbone=True,
         backbone_type=args.backbone,
         temporal_type=args.temporal
     )
@@ -70,16 +69,13 @@ def main():
     print(f"Loading checkpoint from: {args.checkpoint}")
     checkpoint = torch.load(args.checkpoint, map_location=device, weights_only=False)
     
-    # Handle state dict from DataParallel/DistributedDataParallel or compiled models if needed
     state_dict = checkpoint.get("model_state_dict", checkpoint)
-    # Remove '_orig_mod.' prefix if model was compiled
     state_dict = {k.replace('_orig_mod.', ''): v for k, v in state_dict.items()}
     
     model.load_state_dict(state_dict)
     model.to(device)
     model.eval()
 
-    # 3. Test Loop
     print("Starting evaluation...")
     all_preds = []
     all_labels = []
@@ -87,7 +83,6 @@ def main():
     if device.type == "cuda":
         autocast_context = torch.amp.autocast(device_type="cuda")
     else:
-        # Dummy context manager for CPU
         from contextlib import nullcontext
         autocast_context = nullcontext()
         
@@ -108,7 +103,6 @@ def main():
     all_preds = torch.cat(all_preds).numpy()
     all_labels = torch.cat(all_labels).numpy()
     
-    # 4. Metrics calculation
     acc = accuracy_score(all_labels, all_preds)
     prec, rec, f1, _ = precision_recall_fscore_support(all_labels, all_preds, average='macro', zero_division=0)
     
@@ -121,7 +115,6 @@ def main():
     print(f"F1 Score:  {f1:.4f}")
     print("=" * 40)
     
-    # 5. Save results
     checkpoint_dir = Path(args.checkpoint).parent
     out_file = checkpoint_dir / "test_results.json"
     
@@ -136,16 +129,12 @@ def main():
     with open(out_file, "w") as f:
         json.dump(results, f, indent=4)
         
-    # 6. Save detailed predictions mapping test dataset logic 
     idx_to_label = {v: k for k, v in test_dataset.label_to_idx.items()}
     
     results_records = []
-    # Test dataloader preserves the exact dataset mapping when shuffle=False
     for i, (pred_idx, true_idx) in enumerate(zip(all_preds, all_labels)):
         sample = test_dataset.samples[i]
         
-        # In SignFramesDataset, frames is a list of Path objects for `.jpg` files.
-        # The parent directory corresponds to the frame sequence / video name.
         if sample["frames"]:
             video_id = sample["frames"][0].parent.name
         else:
@@ -168,7 +157,6 @@ def main():
     print(f"Results saved to: {out_file}")
     print(f"Predictions saved to: {csv_out_path}")
     
-    # 7. Print top confusions
     print("\n" + "=" * 40)
     print("TOP MISCLASSIFICATIONS")
     print("=" * 40)

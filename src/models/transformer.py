@@ -3,9 +3,6 @@ import torch.nn as nn
 
 
 class TemporalTransformer(nn.Module):
-    """
-    Temporal Transformer over frame embeddings.
-    """
     def __init__(
         self,
         embed_dim: int,

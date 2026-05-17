@@ -4,9 +4,6 @@ import torchvision.models as models
 
 
 class EfficientNetBackbone(nn.Module):
-    """
-    EfficientNet / EfficientNetV2 backbone pretrained on ImageNet.
-    """
     def __init__(self, variant: str = "b0", freeze: bool = True):
         super().__init__()
         self.freeze = freeze
@@ -56,9 +53,6 @@ class EfficientNetBackbone(nn.Module):
 
 
 class DinoV2Backbone(nn.Module):
-    """
-    DINOv2 ViT-S/14 backbone.
-    """
     def __init__(self, freeze: bool = True):
         super().__init__()
         self.freeze = freeze

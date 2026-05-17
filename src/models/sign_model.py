@@ -9,30 +9,6 @@ from .video_swin import VideoSwinModel
 
 
 class SignModel(nn.Module):
-    """
-    Main sign language classification model.
-
-    Supported modes:
-
-    1. Frame backbone + temporal model:
-        backbone_type:
-            - efficientnet_b0
-            - efficientnet_v2_s
-            - dinov2
-
-        temporal_type:
-            - gru
-            - lstm
-            - transformer
-
-    2. End-to-end video transformer:
-        backbone_type:
-            - video_swin_t
-            - video_swin_s
-            - video_swin_b
-
-        In this mode temporal_type is ignored.
-    """
     def __init__(
         self,
         num_classes: int,
@@ -48,43 +24,6 @@ class SignModel(nn.Module):
         self.backbone_type = backbone_type.lower()
         self.temporal_type = temporal_type.lower()
         self.is_video_model = False
-
-        # =========================
-        # Video Swin mode
-        # =========================
-
-        if self.backbone_type in [
-            "video_swin_t",
-            "video_swin_tiny",
-            "video_swin_s",
-            "video_swin_small",
-            "video_swin_b",
-            "video_swin_base"
-        ]:
-            self.is_video_model = True
-
-            if self.backbone_type in ["video_swin_t", "video_swin_tiny"]:
-                variant = "tiny"
-            elif self.backbone_type in ["video_swin_s", "video_swin_small"]:
-                variant = "small"
-            elif self.backbone_type in ["video_swin_b", "video_swin_base"]:
-                variant = "base"
-            else:
-                raise ValueError(f"Unknown backbone_type: {backbone_type}")
-
-            self.video_model = VideoSwinModel(
-                num_classes=num_classes,
-                variant=variant,
-                pretrained=video_swin_pretrained,
-                freeze_backbone=freeze_backbone,
-                dropout_rate=dropout_rate
-            )
-
-            return
-
-        # =========================
-        # Frame backbone + temporal model mode
-        # =========================
 
         self.normalize = Normalize(
             mean=[0.485, 0.456, 0.406],

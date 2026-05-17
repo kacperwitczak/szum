@@ -11,14 +11,8 @@ from tqdm import tqdm
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 
+# Wygenerowanie przy pomocy AI w celu poznania najlepszych praktyk w implementacji klasy Trainer
 class Trainer:
-    """
-    SOTA Training Engine featuring:
-    - Automatic Mixed Precision (AMP)
-    - Gradient Clipping
-    - Dynamic learning rate interactions
-    - Early Stopping & Best Checkpoint Tracking
-    """
     def __init__(
         self,
         model: nn.Module,
@@ -63,13 +57,10 @@ class Trainer:
     def fit(self, num_epochs: int, unfreeze_backbone_epoch: int = None) -> None:
         print(f"Starting training on {self.device}...")
         for epoch in range(num_epochs):
-            # ── Unfreeze backbone scheduling ──
             if unfreeze_backbone_epoch is not None and epoch == unfreeze_backbone_epoch:
                 print(f"--> Unfreezing backbone at epoch {epoch}")
-                # Assuming model supports `unfreeze_encoder()` or `backbone.unfreeze()`
                 if hasattr(self.model, "backbone") and hasattr(self.model.backbone, "unfreeze"):
                     self.model.backbone.unfreeze()
-                    # Add newly unfrozen parameters to optimizer with a lower LR
                     self.optimizer.add_param_group({
                         'params': filter(lambda p: p.requires_grad, self.model.backbone.parameters()),
                         'lr': self.optimizer.param_groups[0]['lr'] * 0.1

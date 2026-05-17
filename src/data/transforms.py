@@ -2,10 +2,6 @@ import cv2
 import albumentations as A
 
 def build_spatial_transform(is_train: bool = True, p_apply: float = 0.9) -> A.Compose | None:
-    """
-    Returns an Albumentations Compose pipeline for grayscale frames.
-    Applies consistent augmentations to all frames in a video sequence.
-    """
     if not is_train:
         return None
         

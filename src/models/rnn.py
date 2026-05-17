@@ -3,9 +3,6 @@ import torch.nn as nn
 
 
 class TemporalGRU(nn.Module):
-    """
-    Bidirectional GRU for temporal aggregation.
-    """
     def __init__(
         self,
         input_dim: int,
@@ -32,9 +29,6 @@ class TemporalGRU(nn.Module):
 
 
 class TemporalLSTM(nn.Module):
-    """
-    Bidirectional LSTM for temporal aggregation.
-    """
     def __init__(
         self,
         input_dim: int,

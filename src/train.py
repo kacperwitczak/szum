@@ -27,7 +27,6 @@ def parse_args():
     parser.add_argument("--no-aug", action="store_true", help="Disable spatial augmentations")
     parser.add_argument("--output-dir", type=str, default="./checkpoints", help="Save directory")
     
-    # Architecture choices
     parser.add_argument("--backbone", type=str, default="efficientnet", choices=["efficientnet", "dinov2", "video_swin_t"], help="Vision backbone")
     parser.add_argument("--temporal", type=str, default="transformer", choices=["transformer", "gru", "lstm"], help="Temporal aggregation model")
     
@@ -36,18 +35,15 @@ def parse_args():
 def main():
     args = parse_args()
     
-    # Optimizations
     torch.backends.cudnn.benchmark = True
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}")
 
-    # 1. Dataset & Dataloader
     print("Initializing Datasets...")
     train_aug_p = 0.0 if args.no_aug else 0.9
     train_dataset = SignFramesDataset(args.csv, split="train", sequence_length=32, spatial_aug_p=train_aug_p)
     val_dataset = SignFramesDataset(args.csv, split="val", sequence_length=32, spatial_aug_p=0.0)
     
-    # Enable persistent workers and pin_memory for faster data transfer to GPU
     train_kwargs = {
         "num_workers": args.num_workers,
         "pin_memory": True,
@@ -59,7 +55,6 @@ def main():
         "num_workers": args.num_workers,
         "pin_memory": True,
         "persistent_workers": args.num_workers > 0,
-        # Reduce prefetch_factor for validation to save RAM/VRAM
         "prefetch_factor": 2 if args.num_workers > 0 else None,
     }
     
@@ -73,7 +68,6 @@ def main():
     num_classes = len(train_dataset.label_to_idx)
     print(f"Classes: {num_classes} | Train size: {len(train_dataset)} | Val size: {len(val_dataset)}")
 
-    # 2. Model setup
     model = SignModel(
         num_classes=num_classes, 
         freeze_backbone=True,
@@ -88,7 +82,7 @@ def main():
         
     model.to(device)
     
-    # Get parameters count
+    # Napisane z pomocą AI
     if hasattr(model, "get_num_parameters"):
         total_p, trainable_p = model.get_num_parameters()
     elif hasattr(model, "_orig_mod") and hasattr(model._orig_mod, "get_num_parameters"):
@@ -97,13 +91,10 @@ def main():
         total_p = sum(p.numel() for p in model.parameters())
         trainable_p = sum(p.numel() for p in model.parameters() if p.requires_grad)
 
-    # 3. Optimizer & Scheduler
-    # Only pass parameters that currently require gradients to avoid "some parameters appear in more than one parameter group" when unfreezing
     trainable_params = filter(lambda p: p.requires_grad, model.parameters())
     optimizer = AdamW(trainable_params, lr=args.lr, weight_decay=1e-4)
     scheduler = CosineAnnealingLR(optimizer, T_max=args.epochs, eta_min=1e-6)
     
-    # 4. Loss Function with label smoothing for regularization
     criterion = nn.CrossEntropyLoss(label_smoothing=0.1)
 
     print("=" * 60)
@@ -118,7 +109,6 @@ def main():
     print(f"  Trainable Params:   {trainable_p:,}")
     print("=" * 60)
 
-    # 5. Trainer
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     csv_name = Path(args.csv).stem
     run_output_dir = os.path.join(args.output_dir, f"{csv_name}_{args.backbone}_{args.temporal}_{timestamp}")
@@ -136,7 +126,6 @@ def main():
         config=vars(args)
     )
 
-    # 6. Fit
     trainer.fit(num_epochs=args.epochs, unfreeze_backbone_epoch=args.unfreeze_epoch)
 
 if __name__ == "__main__":
