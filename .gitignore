@@ -40,3 +40,6 @@ normalized_frames/
 # Optional generated exports
 merged_datasets/universal_metadata_topn_videos_augmented.csv
 merged_datasets/universal_metadata_topn_videos_normalized.csv
+MS-ASL/videos_MS_ASL_raw/
+
+*.pt
