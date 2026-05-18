@@ -23,6 +23,8 @@ class Trainer:
         scheduler: torch.optim.lr_scheduler.LRScheduler = None,
         device: torch.device = None,
         patience: int = 10,
+        best_metric: str = "acc",
+        unfreeze_lr_mult: float = 0.1,
         output_dir: str | Path = "checkpoints",
         config: dict = None
     ):
@@ -39,7 +41,9 @@ class Trainer:
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
-        self.best_val_acc = 0.0
+        self.best_metric = best_metric
+        self.best_metric_value = float("-inf")
+        self.unfreeze_lr_mult = unfreeze_lr_mult
         self.epochs_without_improvement = 0
 
         self.config = config or {}
@@ -63,7 +67,7 @@ class Trainer:
                     self.model.backbone.unfreeze()
                     self.optimizer.add_param_group({
                         'params': filter(lambda p: p.requires_grad, self.model.backbone.parameters()),
-                        'lr': self.optimizer.param_groups[0]['lr'] * 0.1
+                        'lr': self.optimizer.param_groups[0]['lr'] * self.unfreeze_lr_mult
                     })
 
             # ── Train ──
@@ -95,18 +99,25 @@ class Trainer:
             print(f"Epoch {epoch+1}/{num_epochs} - Train Loss: {train_loss:.4f} | Val Loss: {val_loss:.4f} | Val Acc: {val_acc:.4f} | F1: {val_f1:.4f} | LR: {current_lr:.2e}")
             
             # ── Early Stopping & Checkpointing ──
-            if val_acc > self.best_val_acc:
-                self.best_val_acc = val_acc
+            if self.best_metric not in val_metrics:
+                raise ValueError(f"Unknown best metric: {self.best_metric}")
+
+            current_metric_value = val_metrics[self.best_metric]
+            if current_metric_value > self.best_metric_value:
+                self.best_metric_value = current_metric_value
                 self.epochs_without_improvement = 0
                 self._save_checkpoint("best_model.pt")
-                print(f"  [*] Best model saved! (Acc: {val_acc:.4f}, F1: {val_f1:.4f})")
+                print(
+                    f"  [*] Best model saved! ({self.best_metric}: {current_metric_value:.4f}"
+                    f", Acc: {val_acc:.4f}, F1: {val_f1:.4f})"
+                )
             else:
                 self.epochs_without_improvement += 1
                 if self.patience > 0 and self.epochs_without_improvement >= self.patience:
                     print(f"Early stopping triggered after {epoch+1} epochs.")
                     break
 
-        print(f"Training completed. Best Val Acc: {self.best_val_acc:.4f}")
+        print(f"Training completed. Best {self.best_metric}: {self.best_metric_value:.4f}")
         self._plot_history()
 
     def _train_one_epoch(self, epoch: int, total_epochs: int) -> float:
@@ -182,7 +193,8 @@ class Trainer:
         path = self.output_dir / filename
         torch.save({
             "model_state_dict": self.model.state_dict(),
-            "best_val_acc": self.best_val_acc,
+            "best_metric": self.best_metric,
+            "best_metric_value": self.best_metric_value,
         }, path)
 
     def _plot_history(self):

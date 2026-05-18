@@ -3,12 +3,14 @@ import os
 import json
 import pandas as pd
 from pathlib import Path
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
 from tqdm import tqdm
-from sklearn.metrics import precision_recall_fscore_support, accuracy_score
+from sklearn.metrics import precision_recall_fscore_support, accuracy_score, classification_report, confusion_matrix
 
 from src.models.sign_model import SignModel
 from src.data.dataset import SignFramesDataset
@@ -17,10 +19,11 @@ def parse_args():
     parser = argparse.ArgumentParser("Test Sign Language Model")
     parser.add_argument("--csv", type=str, required=True, help="Path to split frames CSV")
     parser.add_argument("--checkpoint", type=str, required=True, help="Path to the model checkpoint (.pt file)")
+    parser.add_argument("--split", type=str, default="test", choices=["train", "val", "test", "test_unseen"], help="Dataset split to test on")
     parser.add_argument("--batch-size", type=int, default=8, help="Batch size per GPU")
     parser.add_argument("--num-workers", type=int, default=os.cpu_count() or 4, help="Dataloader workers")
     
-    parser.add_argument("--backbone", type=str, default="efficientnet", choices=["efficientnet", "dinov2", "video_swin_t"], help="Vision backbone")
+    parser.add_argument("--backbone", type=str, default="efficientnet", choices=["efficientnet", "dinov2", "dinov3"], help="Vision backbone")
     parser.add_argument("--temporal", type=str, default="transformer", choices=["transformer", "gru", "lstm"], help="Temporal aggregation model")
     
     return parser.parse_args()
@@ -32,8 +35,8 @@ def main():
     print(f"Using device: {device}")
 
     # 1. Dataset & Dataloader
-    print("Initializing Test Dataset...")
-    test_dataset = SignFramesDataset(args.csv, split="test", sequence_length=32)
+    print(f"Initializing {args.split.upper()} Dataset...")
+    test_dataset = SignFramesDataset(args.csv, split=args.split, sequence_length=32)
     
     test_kwargs = {
         "num_workers": args.num_workers,
@@ -107,7 +110,7 @@ def main():
     prec, rec, f1, _ = precision_recall_fscore_support(all_labels, all_preds, average='macro', zero_division=0)
     
     print("\n" + "=" * 40)
-    print("TEST RESULTS")
+    print(f"{args.split.upper()} RESULTS")
     print("=" * 40)
     print(f"Accuracy:  {acc:.4f}")
     print(f"Precision: {prec:.4f}")
@@ -115,21 +118,49 @@ def main():
     print(f"F1 Score:  {f1:.4f}")
     print("=" * 40)
     
-    checkpoint_dir = Path(args.checkpoint).parent
-    out_file = checkpoint_dir / "test_results.json"
+    base_out_dir = Path(args.checkpoint).parent
+    out_dir = base_out_dir / args.split
+    out_dir.mkdir(parents=True, exist_ok=True)
+        
+    out_file = out_dir / f"{args.split}_results.json"
     
     results = {
         "checkpoint": args.checkpoint,
-        "test_acc": acc,
-        "test_precision": prec,
-        "test_recall": rec,
-        "test_f1": f1
+        "split": args.split,
+        "test_acc": acc, # kept key as test_acc for backwards compatibility if needed, or better change it
+        f"{args.split}_acc": acc,
+        f"{args.split}_precision": prec,
+        f"{args.split}_recall": rec,
+        f"{args.split}_f1": f1
     }
     
     with open(out_file, "w") as f:
         json.dump(results, f, indent=4)
         
     idx_to_label = {v: k for k, v in test_dataset.label_to_idx.items()}
+    target_names = [idx_to_label[i] for i in range(len(idx_to_label))]
+    class_indices = list(range(len(idx_to_label)))
+    
+    # Save Classification Report
+    report_dict = classification_report(all_labels, all_preds, labels=class_indices, target_names=target_names, output_dict=True, zero_division=0)
+    report_df = pd.DataFrame(report_dict).transpose()
+    report_csv_path = out_dir / f"{args.split}_classification_report.csv"
+    report_df.to_csv(report_csv_path)
+    print(f"Classification report saved to: {report_csv_path}")
+
+    # Save Confusion Matrix Plot
+    cm = confusion_matrix(all_labels, all_preds, labels=class_indices)
+    plt.figure(figsize=(12, 10))
+    sns.heatmap(cm, annot=True, fmt="d", cmap="Blues", xticklabels=target_names, yticklabels=target_names)
+    plt.title(f"Confusion Matrix ({args.split})")
+    plt.ylabel("True Label")
+    plt.xlabel("Predicted Label")
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    cm_plot_path = out_dir / f"{args.split}_confusion_matrix.png"
+    plt.savefig(cm_plot_path, dpi=300)
+    plt.close()
+    print(f"Confusion matrix plot saved to: {cm_plot_path}")
     
     results_records = []
     for i, (pred_idx, true_idx) in enumerate(zip(all_preds, all_labels)):
@@ -151,10 +182,10 @@ def main():
         })
         
     df_results = pd.DataFrame(results_records)
-    csv_out_path = checkpoint_dir / "test_predictions.csv"
+    csv_out_path = out_dir / f"{args.split}_predictions.csv"
     df_results.to_csv(csv_out_path, index=False)
     
-    print(f"Results saved to: {out_file}")
+    print(f"Results JSON saved to: {out_file}")
     print(f"Predictions saved to: {csv_out_path}")
     
     print("\n" + "=" * 40)
@@ -168,7 +199,7 @@ def main():
         for _, row in confusions.iterrows():
             print(f"True: {row['true_label']:<15} | Pred: {row['predicted_label']:<15} | Count: {row['count']}")
             
-        confusions_out_path = checkpoint_dir / "test_top_confusions.csv"
+        confusions_out_path = out_dir / f"{args.split}_top_confusions.csv"
         confusions.to_csv(confusions_out_path, index=False)
         print(f"\nTop confusions saved to: {confusions_out_path}")
     else:

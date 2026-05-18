@@ -1,0 +1,11 @@
+true_label,predicted_label,count
+yes,need,6
+no,need,4
+sit,doctor,4
+help,orange,3
+deaf,orange,3
+school,nice,3
+fish,need,2
+mother,eat,2
+student,but,2
+doctor,orange,1

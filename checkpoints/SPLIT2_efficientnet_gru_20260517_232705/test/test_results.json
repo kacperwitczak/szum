@@ -1,0 +1,8 @@
+{
+    "checkpoint": "checkpoints\\SPLIT2_efficientnet_gru_20260517_232705\\best_model.pt",
+    "split": "test",
+    "test_acc": 0.4759036144578313,
+    "test_precision": 0.5690058090058089,
+    "test_recall": 0.4931878306878306,
+    "test_f1": 0.47455276176638406
+}

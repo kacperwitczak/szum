@@ -2,10 +2,9 @@ import torch
 import torch.nn as nn
 from torchvision.transforms import Normalize
 
-from .backbones import EfficientNetBackbone, DinoV2Backbone
+from .backbones import EfficientNetBackbone, DinoV2Backbone, DinoV3Backbone
 from .transformer import TemporalTransformer
 from .rnn import TemporalGRU, TemporalLSTM
-from .video_swin import VideoSwinModel
 
 
 class SignModel(nn.Module):
@@ -17,11 +16,13 @@ class SignModel(nn.Module):
         max_seq_len: int = 64,
         backbone_type: str = "efficientnet_b0",
         temporal_type: str = "lstm",
-        video_swin_pretrained: bool = True
     ):
         super().__init__()
 
         self.backbone_type = backbone_type.lower()
+        if self.backbone_type == "efficientnet":
+            self.backbone_type = "efficientnet_b0"
+            
         self.temporal_type = temporal_type.lower()
         self.is_video_model = False
 
@@ -32,6 +33,9 @@ class SignModel(nn.Module):
 
         if self.backbone_type == "dinov2":
             self.backbone = DinoV2Backbone(freeze=freeze_backbone)
+            
+        elif self.backbone_type == "dinov3":
+            self.backbone = DinoV3Backbone(freeze=freeze_backbone)
 
         elif self.backbone_type == "efficientnet_b0":
             self.backbone = EfficientNetBackbone(

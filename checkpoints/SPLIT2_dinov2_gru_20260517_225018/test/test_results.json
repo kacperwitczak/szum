@@ -1,0 +1,8 @@
+{
+    "checkpoint": "checkpoints\\SPLIT2_dinov2_gru_20260517_225018\\best_model.pt",
+    "split": "test",
+    "test_acc": 0.3674698795180723,
+    "test_precision": 0.38673187923187924,
+    "test_recall": 0.38126984126984126,
+    "test_f1": 0.31823792560634667
+}

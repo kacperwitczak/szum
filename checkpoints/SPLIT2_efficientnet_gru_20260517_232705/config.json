@@ -1,0 +1,15 @@
+{
+    "csv": "merged_datasets/SPLIT2.csv",
+    "batch_size": 8,
+    "num_workers": 12,
+    "epochs": 30,
+    "lr": 0.0001,
+    "patience": 10,
+    "unfreeze_epoch": null,
+    "dropout": 0.5,
+    "compile": false,
+    "no_aug": false,
+    "output_dir": "./checkpoints",
+    "backbone": "efficientnet",
+    "temporal": "gru"
+}

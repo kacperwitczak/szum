@@ -1,0 +1,9 @@
+{
+    "checkpoint": "checkpoints/SPLIT2_dinov2_transformer_20260504_005307/best_model.pt",
+    "split": "train",
+    "test_acc": 0.9984813971146546,
+    "train_acc": 0.9984813971146546,
+    "train_precision": 0.9985581395348838,
+    "train_recall": 0.9986016949152543,
+    "train_f1": 0.9985643015873842
+}

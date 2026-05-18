@@ -1,0 +1,11 @@
+true_label,predicted_label,count
+need,yes,4
+mother,water,2
+student,learn,2
+father,man,1
+again,doctor,1
+deaf,man,1
+doctor,again,1
+help,deaf,1
+finish,sit,1
+finish,like,1

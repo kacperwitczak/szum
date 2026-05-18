@@ -1,0 +1,21 @@
+{
+    "csv": "merged_datasets/SPLIT2.csv",
+    "batch_size": 8,
+    "num_workers": 12,
+    "epochs": 30,
+    "lr": 0.001,
+    "patience": 10,
+    "unfreeze_epoch": 14,
+    "unfreeze_lr_mult": 0.05,
+    "dropout": 0.55,
+    "compile": false,
+    "no_aug": false,
+    "output_dir": "./checkpoints",
+    "loss": "focal",
+    "label_smoothing": 0.1,
+    "focal_gamma": 2.0,
+    "focal_alpha": null,
+    "best_metric": "f1",
+    "backbone": "dinov2",
+    "temporal": "transformer"
+}

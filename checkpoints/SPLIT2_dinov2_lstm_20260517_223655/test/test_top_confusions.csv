@@ -1,0 +1,11 @@
+true_label,predicted_label,count
+no,school,3
+need,yes,3
+man,help,3
+spring,help,3
+yes,sit,3
+sit,table,2
+sit,student,2
+happy,fish,2
+tired,happy,2
+teacher,school,2

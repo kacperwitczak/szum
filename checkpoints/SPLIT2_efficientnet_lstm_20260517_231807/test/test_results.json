@@ -1,0 +1,8 @@
+{
+    "checkpoint": "checkpoints\\SPLIT2_efficientnet_lstm_20260517_231807\\best_model.pt",
+    "split": "test",
+    "test_acc": 0.42771084337349397,
+    "test_precision": 0.5108400531929943,
+    "test_recall": 0.41683862433862434,
+    "test_f1": 0.40037090360619765
+}
