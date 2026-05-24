@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 import subprocess
 
 checkpoints_dir = "checkpoints"
@@ -36,36 +37,55 @@ def main():
         print("Nie znaleziono żadnych pełnych modeli SPLIT2 z 'best_model.pt'.")
         return
 
-    total_runs = len(models) * len(data_splits)
+    pending_runs = []
+    skipped_runs = []
+
+    for model in models:
+        for data_split in data_splits:
+            out_dir = Path(model["checkpoint"]).parent / data_split
+            out_file = out_dir / f"{data_split}_results.json"
+            if out_file.exists():
+                skipped_runs.append((model["name"], data_split, out_file))
+            else:
+                pending_runs.append((model, data_split, out_file))
+
+    if not pending_runs:
+        print("Brak nowych ewaluacji do uruchomienia (wszystkie SPLIT2 mają już wyniki).")
+        if skipped_runs:
+            print("Pominięte (wyniki już istnieją):")
+            for model_name, data_split, out_file in skipped_runs:
+                print(f"- {model_name} | {data_split.upper()} | {out_file}")
+        return
+
+    total_runs = len(pending_runs)
     current_run = 1
     
-    for model in models:
+    for model, data_split, out_file in pending_runs:
         print(f"\n{'='*60}")
         print(f"ROZPOCZYNAM EWALUACJĘ: {model['name']}")
         print(f"{'='*60}")
-        
-        for data_split in data_splits:
-            print(f"\n---> [{current_run}/{total_runs}] Uruchamianie testu dla podzbioru: {data_split.upper()}...")
-            
-            cmd = [
-                python_exe, "-m", "src.test",
-                "--csv", model["csv"],
-                "--checkpoint", model["checkpoint"],
-                "--backbone", model["backbone"],
-                "--temporal", model["temporal"],
-                "--split", data_split
-            ]
-            
-            print(f"Komenda: {' '.join(cmd)}")
-            
-            try:
-                # Uruchomienie komendy ewaluacyjnej
-                subprocess.run(cmd, check=True)
-                print(f"---> [SUKCES] Zakończono test dla {data_split.upper()}")
-            except subprocess.CalledProcessError as e:
-                print(f"---> [BŁĄD] Wystąpił błąd podczas ewaluacji podzbioru {data_split.upper()}: {e}")
-                
-            current_run += 1
+        print(f"\n---> [{current_run}/{total_runs}] Uruchamianie testu dla podzbioru: {data_split.upper()}...")
+
+        cmd = [
+            python_exe, "-m", "src.test",
+            "--csv", model["csv"],
+            "--checkpoint", model["checkpoint"],
+            "--backbone", model["backbone"],
+            "--temporal", model["temporal"],
+            "--split", data_split
+        ]
+
+        print(f"Komenda: {' '.join(cmd)}")
+        print(f"Oczekiwany plik wynikow: {out_file}")
+
+        try:
+            # Uruchomienie komendy ewaluacyjnej
+            subprocess.run(cmd, check=True)
+            print(f"---> [SUKCES] Zakończono test dla {data_split.upper()}")
+        except subprocess.CalledProcessError as e:
+            print(f"---> [BŁĄD] Wystąpił błąd podczas ewaluacji podzbioru {data_split.upper()}: {e}")
+
+        current_run += 1
 
     print("\n" + "="*60)
     print("WSZYSTKIE EWALUACJE SPLIT2 ZOSTAŁY ZAKOŃCZONE!")
